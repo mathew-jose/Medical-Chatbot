@@ -1,0 +1,2086 @@
+{
+    "intents": [
+        {
+            "tag": [
+                "greetings"
+            ],
+            "code": [
+                "Hi",
+                "How are you",
+                "How you are",
+                "anyone Present Is",
+                "anyone Is Present",
+                "Good Day",
+                "up Whats",
+                "How Do You do",
+                "do Do You How",
+                "Do do You How",
+                "How Do do You",
+                "Hey",
+                "Hello",
+                "Greetings"
+            ],
+            "response": [
+                "Hello Human",
+                "Good To See You Again",
+                "Hey, How Can I Help You",
+                "Welcome HomoSapien"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "bye"
+            ],
+            "code": [
+                "Goodbye",
+                "Again See you",
+                "See you Again",
+                "Ciao",
+                "Hasta Vista La",
+                "Hasta La Vista",
+                "Au Revior",
+                "am I Leaving",
+                "Leaving I am",
+                "Help Thanks The For",
+                "Help Thanks For The",
+                "Thanks For Help The",
+                "Thanks Help The For",
+                "Have A Good Day",
+                "Good Day A Have",
+                "Have Good A Day",
+                "Good A Have Day",
+                "Care Take",
+                "Take Care",
+                "Thanks"
+            ],
+            "response": [
+                "Thanks For The Talk",
+                "Hopefully Wont see you soon",
+                "Talk to You Later",
+                "GoodBye",
+                "BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "creator"
+            ],
+            "code": [
+                "made you Who",
+                "Who you made",
+                "Who made you",
+                "Your is Father Who",
+                "Father Your Who is",
+                "is Father Your Who",
+                "Who Father is Your",
+                "Who is Creator your",
+                "Who Creator is your",
+                "Creator your is Who",
+                "Creator your Who is",
+                "Creator",
+                "Father"
+            ],
+            "response": [
+                "I was Created My Mathew Jose(MJ)"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "age"
+            ],
+            "code": [
+                "whats Your Age",
+                "Your Age whats",
+                "Are How You Old",
+                "You Are Old How",
+                "How Old Are You",
+                "How Old You Are",
+                "How Old",
+                "Old How",
+                "Age"
+            ],
+            "response": [
+                "That's A Little Personal Don't You Think :D"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "functions"
+            ],
+            "code": [
+                "You do can What",
+                "You What do can",
+                "What do can You",
+                "You What can do",
+                "is Functionalities What Your",
+                "Your Functionalities What is",
+                "What Your Functionalities is",
+                "is Your What Functionalities",
+                "functions",
+                "abilities",
+                "Uses",
+                "Tell Me you What do",
+                "Me you What do Tell",
+                "What Me do Tell you",
+                "Me you do Tell What",
+                "do Tell Me What you"
+            ],
+            "response": [
+                "I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By."
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease1"
+            ],
+            "code": [
+                "sore watery throat itchy sneezing nasal congestion nose runny eyes",
+                "eyes congestion itchy watery sneezing runny throat nose nasal sore",
+                "itchy congestion sore eyes runny watery sneezing throat nose nasal",
+                "sneezing sore watery eyes nose congestion nasal throat itchy runny",
+                "itchy runny watery nose congestion nasal sore throat sneezing eyes",
+                "runny sneezing nose itchy eyes sore nasal watery congestion throat",
+                "sore eyes throat nose itchy runny congestion watery sneezing nasal",
+                "nasal sneezing throat nose congestion sore itchy runny watery eyes",
+                "sore watery eyes nose runny congestion nasal sneezing throat itchy",
+                "congestion itchy runny nose sore throat eyes nasal watery sneezing",
+                "watery sneezing throat itchy clearing from eyes nose nasal drip throat cough congestion postnasal scratchy",
+                "watery nasal itchy throat from throat scratchy drip nose cough sneezing clearing congestion eyes postnasal",
+                "scratchy cough eyes drip sneezing itchy congestion throat nose throat clearing postnasal watery from nasal",
+                "nasal eyes itchy throat postnasal nose watery throat scratchy cough from clearing drip sneezing congestion",
+                "drip sneezing throat nose from congestion clearing itchy nasal throat eyes cough postnasal scratchy watery",
+                "throat eyes drip nose postnasal cough congestion itchy throat from clearing scratchy sneezing watery nasal",
+                "sneezing scratchy itchy eyes nasal cough throat clearing nose congestion postnasal watery from drip throat",
+                "scratchy throat postnasal drip nose clearing watery cough itchy throat nasal from sneezing eyes congestion",
+                "congestion nose postnasal itchy nasal sneezing clearing watery throat cough scratchy eyes throat drip from",
+                "congestion throat throat postnasal watery eyes itchy sneezing nasal drip scratchy nose from clearing cough",
+                "watery nasal eyes scratchy drip sneezing congestion postnasal from itchy nose cough throat clearing throat",
+                "nose congestion watery sneezing throat scratchy eyes throat clearing postnasal itchy cough nasal drip from",
+                "scratchy itchy nose watery clearing sneezing eyes congestion throat throat postnasal drip cough nasal from",
+                "throat watery congestion cough eyes itchy postnasal from nose scratchy drip throat sneezing clearing nasal",
+                "itchy eyes postnasal nasal clearing throat throat from scratchy nose watery congestion sneezing drip cough"
+            ],
+            "response": [
+                "You Are Showing Symptoms Of The Allergies"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease2"
+            ],
+            "code": [
+                "of palpitations Feel fainting Have decreased pale Appear shortness rate rapid energy heart breath easily Experience Develop Weakness Fatigue tired",
+                "fainting decreased shortness Feel energy Experience tired Have Weakness palpitations Fatigue breath of Develop Appear easily pale rapid rate heart",
+                "palpitations rapid fainting Weakness Appear energy rate Experience Have tired decreased shortness Develop breath pale Fatigue heart of Feel easily",
+                "decreased shortness pale tired Weakness rapid heart of Have breath rate Appear palpitations energy fainting easily Experience Feel Fatigue Develop",
+                "shortness heart Feel Weakness pale tired Develop Fatigue Appear of breath Experience decreased energy Have palpitations rate rapid fainting easily",
+                "fainting heart Appear Fatigue Feel easily of pale rate Weakness Develop breath tired energy Have palpitations rapid Experience decreased shortness",
+                "easily palpitations rapid Have fainting Fatigue Develop energy Weakness tired Experience rate Feel pale decreased Appear shortness breath heart of",
+                "Feel Fatigue breath Experience fainting tired easily palpitations Weakness decreased Develop rapid shortness energy pale of Appear rate Have heart",
+                "Weakness easily energy fainting rate rapid heart Have tired palpitations breath Appear pale shortness Feel Fatigue Develop of decreased Experience",
+                "tired breath Experience Have decreased Develop Fatigue fainting of pale Weakness heart rate easily Appear Feel energy shortness rapid palpitations",
+                "pale breath Fatigue decreased Have shortness palpitations Appear Weakness tired easily rapid Feel fainting heart Experience Develop of rate energy",
+                "Feel Appear heart pale breath fainting Experience palpitations energy rate easily tired decreased Fatigue of Weakness Develop Have shortness rapid",
+                "Experience Develop rapid Have rate shortness pale heart breath palpitations Fatigue energy fainting decreased Weakness Feel Appear of easily tired",
+                "rapid Appear rate tired fainting energy palpitations breath decreased pale Experience easily heart of Have Develop Fatigue Weakness shortness Feel",
+                "easily of Feel Appear fainting shortness pale Develop rate Fatigue breath tired decreased heart Weakness energy Experience Have rapid palpitations",
+                "palpitations rate decreased Feel Have Develop Weakness breath rapid easily pale shortness heart Appear energy tired of Fatigue fainting Experience",
+                "energy Appear pale rate Weakness rapid Fatigue heart shortness Develop of Feel fainting Experience tired breath Have easily palpitations decreased",
+                "Weakness Feel energy breath rate fainting pale shortness heart Appear Experience Fatigue Develop of decreased rapid tired Have easily palpitations",
+                "Appear Develop Weakness shortness Fatigue palpitations tired decreased rate breath fainting pale rapid energy heart Feel Experience Have easily of",
+                "tired of Fatigue rapid Have energy fainting heart palpitations rate breath Develop decreased Weakness pale easily shortness Feel Appear Experience"
+            ],
+            "response": [
+                "You Are Showing Symptoms Of The Anemia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease3"
+            ],
+            "code": [
+                "congestion Headaches Cough body nosesneezing throat symptoms Nasal Sore runny fever aches",
+                "aches Sore body fever runny congestion throat nosesneezing symptoms Cough Headaches Nasal",
+                "Cough body throat aches Sore nosesneezing Headaches fever congestion runny symptoms Nasal",
+                "runny aches symptoms body nosesneezing congestion Headaches Cough Sore Nasal throat fever",
+                "body Sore fever throat nosesneezing congestion Cough Headaches aches Nasal runny symptoms",
+                "symptoms Headaches Sore fever Cough congestion body nosesneezing runny Nasal throat aches",
+                "throat Nasal Cough runny Headaches aches nosesneezing body Sore fever symptoms congestion",
+                "Nasal nosesneezing body congestion aches runny Cough Headaches throat symptoms Sore fever",
+                "Cough throat symptoms aches runny Headaches congestion body Sore fever nosesneezing Nasal",
+                "Nasal body Sore congestion symptoms runny throat Cough nosesneezing Headaches fever aches",
+                "body Sore congestion symptoms fever aches throat nosesneezing Nasal Headaches Cough runny",
+                "Cough symptoms congestion aches throat body fever Headaches Sore nosesneezing runny Nasal"
+            ],
+            "response": [
+                "You Are Showing Symptoms Of The Cold/Flu"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease4"
+            ],
+            "code": [
+                "cough breath pain chest of shortness",
+                "chest pain breath of shortness cough",
+                "cough breath shortness pain of chest",
+                "pain breath of shortness cough chest",
+                "of pain breath cough chest shortness",
+                "cough of pain shortness chest breath"
+            ],
+            "response": [
+                "You Are Showing Symptoms Of The Asthma"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease5"
+            ],
+            "code": [
+                "agitation quarrelsomeness loss irritability of orientation",
+                "of orientation loss agitation irritability quarrelsomeness",
+                "orientation loss quarrelsomeness irritability of agitation",
+                "loss irritability quarrelsomeness agitation of orientation",
+                "of loss orientation irritability agitation quarrelsomeness",
+                "quarrelsomeness irritability agitation orientation loss of"
+            ],
+            "response": [
+                "You are most likely suffering from alzheimers"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease6"
+            ],
+            "code": [
+                "of tenderness periods Food cravings breast swelling absence menstrual",
+                "of swelling menstrual Food periods tenderness absence cravings breast",
+                "periods menstrual cravings absence tenderness of Food breast swelling",
+                "Food breast absence tenderness menstrual swelling of cravings periods",
+                "swelling of cravings periods absence tenderness breast menstrual Food",
+                "breast menstrual absence cravings of swelling periods Food tenderness",
+                "absence tenderness breast menstrual swelling of Food periods cravings",
+                "of cravings swelling tenderness Food menstrual periods absence breast",
+                "cravings swelling tenderness menstrual periods absence Food breast of"
+            ],
+            "response": [
+                "You are most likely suffering from pregnancy"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease7"
+            ],
+            "code": [
+                "sweating loss weight nervousness heart intolerance agitation to a heat tremor rate rapid excessive loss hair fatigue",
+                "excessive intolerance fatigue a loss rapid tremor heat nervousness loss weight sweating rate to agitation heart hair",
+                "loss heat weight agitation a rate fatigue tremor to intolerance rapid sweating excessive nervousness hair loss heart",
+                "heart excessive sweating fatigue weight intolerance a tremor heat agitation loss nervousness hair loss rate to rapid",
+                "loss heat hair sweating heart excessive a tremor rate loss agitation rapid nervousness intolerance to weight fatigue",
+                "weight intolerance rapid loss sweating hair to agitation rate a nervousness loss excessive heat fatigue tremor heart",
+                "rapid rate hair excessive fatigue heart sweating intolerance weight nervousness loss to a loss agitation heat tremor",
+                "loss a agitation weight intolerance to heart rate nervousness sweating fatigue hair loss tremor rapid heat excessive",
+                "loss heart weight tremor nervousness heat a excessive to rate agitation hair sweating intolerance rapid loss fatigue",
+                "loss heart rate intolerance heat a fatigue sweating nervousness weight tremor agitation hair loss excessive rapid to",
+                "heat to heart weight loss fatigue rate loss tremor a sweating rapid nervousness hair excessive intolerance agitation",
+                "weight sweating a rapid rate hair excessive agitation loss heat intolerance loss fatigue to tremor heart nervousness",
+                "agitation sweating loss heart nervousness loss heat to rapid weight fatigue hair tremor a intolerance excessive rate",
+                "tremor fatigue heat heart hair a to nervousness sweating agitation loss rate rapid weight loss excessive intolerance",
+                "agitation excessive loss hair heart heat rapid a nervousness fatigue tremor rate sweating to loss weight intolerance",
+                "excessive sweating tremor nervousness intolerance rate agitation a loss to heart loss hair fatigue weight heat rapid",
+                "rapid agitation fatigue loss sweating excessive tremor intolerance to rate weight nervousness loss heat hair heart a"
+            ],
+            "response": [
+                "You are most likely suffering from hyperthyroid"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease8"
+            ],
+            "code": [
+                "fatigue cramps dry intolerance muscle gain weight depression skin sleepiness cold mild",
+                "gain weight mild cold muscle intolerance depression cramps dry fatigue skin sleepiness",
+                "dry gain intolerance cold skin depression weight sleepiness fatigue cramps muscle mild",
+                "skin cramps depression cold gain intolerance dry fatigue muscle mild weight sleepiness",
+                "mild sleepiness cold intolerance weight fatigue depression cramps skin dry muscle gain",
+                "fatigue intolerance weight cramps skin gain muscle cold mild sleepiness depression dry",
+                "dry cold weight sleepiness muscle gain cramps skin depression intolerance mild fatigue",
+                "dry fatigue gain weight muscle intolerance sleepiness cramps cold mild skin depression",
+                "intolerance fatigue cold depression mild dry skin weight sleepiness gain muscle cramps",
+                "muscle intolerance gain weight cramps dry sleepiness skin depression fatigue cold mild",
+                "fatigue mild intolerance cold muscle weight gain cramps skin sleepiness dry depression",
+                "mild depression skin cramps weight dry muscle gain intolerance cold sleepiness fatigue"
+            ],
+            "response": [
+                "You are most likely suffering from hypothyroid"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease9"
+            ],
+            "code": [
+                "thirst dehydration hunger increased urination increased",
+                "hunger urination increased thirst dehydration increased",
+                "urination dehydration hunger increased thirst increased",
+                "urination dehydration increased hunger increased thirst",
+                "thirst hunger urination increased dehydration increased",
+                "increased dehydration hunger increased urination thirst"
+            ],
+            "response": [
+                "You are most likely suffering from diabetes"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease10"
+            ],
+            "code": [
+                "chills ulcers sweats swollen muscle aches lymph mouth throat sore nodes night fever joint",
+                "mouth joint night throat sweats sore chills fever muscle lymph nodes ulcers swollen aches",
+                "throat lymph joint swollen sore night chills sweats aches nodes ulcers muscle fever mouth",
+                "swollen fever sweats throat lymph chills aches ulcers muscle joint sore mouth night nodes",
+                "night fever chills swollen throat sore mouth ulcers nodes sweats lymph muscle joint aches",
+                "chills mouth muscle lymph fever sore ulcers swollen nodes night throat sweats aches joint",
+                "sore sweats throat joint nodes night mouth aches swollen chills ulcers fever muscle lymph",
+                "nodes mouth sore fever chills ulcers night swollen aches throat lymph muscle joint sweats",
+                "sweats throat aches chills sore mouth fever ulcers swollen nodes joint lymph night muscle",
+                "joint chills muscle lymph throat ulcers fever aches mouth sore sweats night nodes swollen",
+                "nodes joint muscle ulcers fever sweats aches throat chills lymph night sore mouth swollen",
+                "joint night ulcers fever sweats lymph aches sore chills nodes mouth throat muscle swollen",
+                "muscle chills sore fever swollen mouth throat night nodes ulcers sweats joint lymph aches",
+                "joint aches chills lymph throat ulcers mouth nodes fever swollen sore night sweats muscle"
+            ],
+            "response": [
+                "You are most likely suffering from HIV AIDS"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease11"
+            ],
+            "code": [
+                "in shortness pain of blurred vision headache chest nosebleeds the breath blood fatigue urine dizziness",
+                "fatigue dizziness pain headache nosebleeds blood chest breath of the urine vision blurred shortness in",
+                "fatigue dizziness chest blurred the pain nosebleeds shortness of urine in vision breath headache blood",
+                "nosebleeds blood pain shortness chest in breath vision of the dizziness headache fatigue blurred urine",
+                "pain shortness nosebleeds breath in vision fatigue of dizziness blurred blood headache the urine chest",
+                "shortness blurred fatigue breath in pain urine blood headache nosebleeds the of vision chest dizziness",
+                "the pain vision chest blurred breath urine headache in blood of dizziness fatigue shortness nosebleeds",
+                "of urine pain breath shortness headache blurred the chest in vision nosebleeds dizziness fatigue blood",
+                "breath vision nosebleeds fatigue chest the blood in dizziness blurred headache of urine pain shortness",
+                "blood in blurred of chest nosebleeds shortness headache urine fatigue breath pain vision the dizziness",
+                "blurred shortness urine in dizziness pain the vision fatigue blood chest nosebleeds breath headache of",
+                "headache dizziness nosebleeds urine blurred pain fatigue the vision breath blood in shortness chest of",
+                "shortness chest urine blood pain nosebleeds blurred in fatigue dizziness headache breath vision the of",
+                "of dizziness headache fatigue vision blood breath blurred the pain urine shortness chest nosebleeds in",
+                "headache of shortness dizziness the blood urine pain chest breath vision fatigue in blurred nosebleeds"
+            ],
+            "response": [
+                "You are most likely suffering from high blood pressure"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease12"
+            ],
+            "code": [
+                "of stiffness muscle fatigue of energy aches appetite ache fever lack loss",
+                "aches of lack of loss ache energy fatigue fever muscle stiffness appetite",
+                "of lack of loss fatigue stiffness appetite fever muscle energy aches ache",
+                "muscle appetite fever fatigue aches lack stiffness energy ache of of loss",
+                "of fever fatigue ache muscle appetite lack stiffness of energy aches loss",
+                "energy stiffness muscle of loss fatigue aches lack of fever appetite ache",
+                "lack muscle loss of appetite aches stiffness fatigue ache energy fever of",
+                "aches energy lack fatigue of of loss stiffness ache appetite muscle fever",
+                "energy ache loss fatigue of of stiffness appetite muscle lack aches fever",
+                "muscle appetite energy fever stiffness of loss aches fatigue lack of ache",
+                "muscle appetite energy ache loss of of fatigue fever stiffness lack aches",
+                "fever stiffness of appetite energy aches fatigue of ache muscle loss lack"
+            ],
+            "response": [
+                "You are most likely suffering from Rheumatoid Arthritis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease13"
+            ],
+            "code": [
+                "fatigue the abdomen jaundice upper inflamed of in right pain appetite nausea loss liver",
+                "the inflamed loss upper of abdomen liver in pain jaundice appetite nausea right fatigue",
+                "loss appetite nausea inflamed right of in fatigue the liver abdomen upper pain jaundice",
+                "right upper loss inflamed in abdomen nausea liver the fatigue of appetite pain jaundice",
+                "loss liver appetite the of upper pain jaundice inflamed right nausea abdomen fatigue in",
+                "pain jaundice fatigue appetite upper of right in liver inflamed the abdomen nausea loss",
+                "jaundice liver appetite in right of pain inflamed fatigue nausea upper loss the abdomen",
+                "abdomen right nausea the upper inflamed jaundice in fatigue liver pain of loss appetite",
+                "the nausea jaundice upper pain abdomen of right inflamed appetite loss fatigue in liver",
+                "liver in abdomen of fatigue right jaundice the inflamed pain upper loss appetite nausea",
+                "the liver fatigue abdomen appetite inflamed loss upper nausea of jaundice right pain in",
+                "of abdomen the upper liver jaundice in nausea pain right inflamed appetite fatigue loss",
+                "pain of liver appetite jaundice upper nausea inflamed loss abdomen fatigue in right the",
+                "pain upper loss the of jaundice right abdomen appetite liver inflamed fatigue in nausea"
+            ],
+            "response": [
+                "You are most likely suffering from hepatitis B"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease14"
+            ],
+            "code": [
+                "fever fever pain exhaustion headache muscle rash joint severe headache",
+                "headache joint muscle pain headache rash exhaustion fever severe fever",
+                "fever headache joint fever rash headache pain severe exhaustion muscle",
+                "muscle pain headache severe fever headache exhaustion fever rash joint",
+                "severe headache exhaustion fever fever rash joint pain headache muscle",
+                "fever rash headache joint severe muscle exhaustion fever pain headache",
+                "exhaustion joint rash severe headache headache fever muscle pain fever",
+                "muscle fever severe rash headache fever joint headache pain exhaustion",
+                "exhaustion fever pain muscle rash fever headache joint headache severe",
+                "headache severe fever exhaustion rash muscle joint pain headache fever"
+            ],
+            "response": [
+                "You are most likely suffering from Dengue"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease15"
+            ],
+            "code": [
+                "general weakness vomiting chills aches nausea headaches fever body",
+                "nausea vomiting headaches aches weakness general fever chills body",
+                "weakness body nausea aches chills headaches general fever vomiting",
+                "body headaches chills general aches nausea vomiting fever weakness",
+                "weakness chills general fever vomiting headaches nausea aches body",
+                "nausea aches headaches body vomiting general chills fever weakness",
+                "headaches vomiting chills general aches weakness body nausea fever",
+                "vomiting headaches general chills nausea body weakness aches fever",
+                "general vomiting fever chills aches nausea headaches weakness body"
+            ],
+            "response": [
+                "You are most likely suffering from Malaria"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease16"
+            ],
+            "code": [
+                "general red on fever the body weakness spots fever",
+                "fever body on general spots red weakness the fever",
+                "fever the red on general weakness fever body spots",
+                "on fever general the fever spots weakness body red",
+                "body spots the general on fever fever red weakness",
+                "general weakness fever spots the on fever red body",
+                "on spots fever fever the weakness body general red",
+                "body fever red on weakness the spots general fever",
+                "general fever the red body on weakness spots fever"
+            ],
+            "response": [
+                "You are most likely suffering from Chicken Pox"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease17"
+            ],
+            "code": [
+                "skin discoloration the mucous Yellow muscle Seizures membranes crying High of pitched Changes in sleepiness tone",
+                "Seizures the High pitched membranes discoloration Changes sleepiness Yellow tone of crying skin in mucous muscle",
+                "High skin membranes Seizures Yellow crying Changes in of muscle tone pitched mucous sleepiness the discoloration",
+                "muscle of tone Seizures Changes in skin sleepiness membranes crying the Yellow High mucous discoloration pitched",
+                "Changes High membranes discoloration the Seizures tone Yellow in muscle crying mucous pitched skin of sleepiness",
+                "sleepiness skin Changes tone discoloration the in Yellow membranes muscle High Seizures crying mucous of pitched",
+                "membranes crying pitched Changes tone Yellow Seizures High skin the sleepiness in discoloration of muscle mucous",
+                "mucous Yellow muscle in High pitched sleepiness discoloration of the Changes crying skin membranes Seizures tone",
+                "membranes mucous tone Seizures of crying in Changes muscle discoloration Yellow pitched the skin sleepiness High",
+                "Changes High Yellow of muscle mucous discoloration crying in skin tone sleepiness pitched Seizures the membranes",
+                "membranes in sleepiness Seizures Changes crying tone High mucous discoloration the muscle skin of pitched Yellow",
+                "in sleepiness High the discoloration mucous tone Seizures crying of pitched muscle Yellow skin Changes membranes",
+                "discoloration sleepiness Changes Seizures skin tone crying muscle the of pitched mucous in Yellow membranes High",
+                "sleepiness pitched muscle Changes discoloration the Yellow of skin crying tone in Seizures membranes High mucous",
+                "pitched membranes in mucous sleepiness muscle discoloration Changes tone of Yellow the High skin crying Seizures",
+                "sleepiness muscle the crying pitched membranes discoloration skin in Seizures Yellow tone High mucous of Changes"
+            ],
+            "response": [
+                "You are most likely suffering from jaundice"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease18"
+            ],
+            "code": [
+                "frequent pain watery bowel movements abdominal no inflammation signs cramping of are",
+                "pain signs watery of abdominal no movements frequent inflammation are cramping bowel",
+                "bowel cramping frequent inflammation movements watery of pain no abdominal are signs",
+                "are watery cramping of frequent signs no pain movements bowel inflammation abdominal",
+                "bowel pain signs watery movements no frequent cramping abdominal are inflammation of",
+                "are bowel cramping abdominal signs no movements watery pain inflammation frequent of",
+                "no are cramping inflammation pain signs bowel of abdominal movements frequent watery",
+                "of inflammation signs pain movements abdominal frequent watery are no bowel cramping",
+                "movements are abdominal watery signs frequent of cramping pain bowel inflammation no",
+                "watery no abdominal pain of inflammation signs movements are cramping bowel frequent",
+                "frequent pain of bowel movements cramping abdominal inflammation no signs are watery",
+                "of watery are inflammation pain abdominal signs no cramping bowel frequent movements"
+            ],
+            "response": [
+                "You are most likely suffering from Diarrhea"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease19"
+            ],
+            "code": [
+                "decrease fully glasses in with correctable clarity of vision not",
+                "not correctable of with in vision decrease clarity fully glasses",
+                "glasses decrease of not with vision in clarity fully correctable",
+                "vision correctable in clarity of fully decrease glasses not with",
+                "fully of correctable not in decrease clarity glasses with vision",
+                "with decrease correctable vision glasses clarity fully of in not",
+                "not glasses clarity in of vision with correctable decrease fully",
+                "in correctable clarity with fully of vision decrease glasses not",
+                "not vision decrease of fully in with clarity glasses correctable",
+                "glasses of correctable not with fully clarity in decrease vision"
+            ],
+            "response": [
+                "You are most likely suffering from cataract"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease20"
+            ],
+            "code": [
+                "fatigue fever of cough chills breath shortness",
+                "of cough fever fatigue shortness chills breath",
+                "fever chills fatigue of cough shortness breath",
+                "of chills fever fatigue cough shortness breath",
+                "of chills shortness breath cough fever fatigue",
+                "fatigue of shortness fever chills cough breath",
+                "cough fatigue shortness breath chills of fever"
+            ],
+            "response": [
+                "You are most likely suffering from pneumonia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease21"
+            ],
+            "code": [
+                "lower to the in of inability urinate bloating abdomen lower the abdomen discomfort painful",
+                "abdomen the abdomen inability the to bloating painful lower discomfort lower urinate of in",
+                "urinate the painful abdomen lower discomfort inability to in abdomen of lower bloating the",
+                "painful urinate to inability lower of the abdomen the bloating lower discomfort in abdomen",
+                "abdomen bloating urinate lower in lower inability the of the discomfort abdomen painful to",
+                "bloating abdomen painful of the discomfort lower abdomen the to in inability urinate lower",
+                "inability the abdomen urinate in abdomen lower of to bloating the discomfort painful lower",
+                "urinate the bloating to lower the of lower abdomen discomfort painful inability abdomen in",
+                "urinate abdomen painful to in inability lower discomfort bloating the abdomen lower the of",
+                "lower in discomfort bloating the urinate lower of painful the to abdomen abdomen inability",
+                "lower abdomen discomfort the in painful lower abdomen to inability of bloating urinate the",
+                "bloating abdomen abdomen the discomfort painful lower to in urinate the of inability lower",
+                "the inability of urinate bloating lower discomfort painful to in lower abdomen the abdomen",
+                "urinate the abdomen inability the discomfort abdomen to lower painful of in lower bloating"
+            ],
+            "response": [
+                "You are most likely suffering from Urinary Retention"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease22"
+            ],
+            "code": [
+                "Mood of fatigue concentration Daytime changes Anxiety Po of sleep sleepiness Lack lack energy Headaches attention",
+                "Mood fatigue Lack Po of of changes Anxiety lack energy Headaches Daytime sleep attention concentration sleepiness",
+                "Daytime sleepiness Lack fatigue changes sleep Anxiety lack energy concentration Headaches attention of Po of Mood",
+                "of energy Mood Daytime Lack sleepiness Po Headaches sleep of fatigue lack Anxiety changes concentration attention",
+                "changes Lack of of Daytime Anxiety attention concentration Mood fatigue Headaches energy Po sleepiness sleep lack",
+                "Po sleep attention changes energy sleepiness Mood Lack Anxiety fatigue concentration of of Headaches Daytime lack",
+                "Headaches Daytime of sleep Po of concentration changes energy sleepiness Anxiety Mood fatigue Lack lack attention",
+                "sleepiness Anxiety changes Daytime lack fatigue of Lack attention energy sleep of Mood Po Headaches concentration",
+                "of lack Lack concentration Daytime Po Mood Anxiety of sleepiness sleep Headaches attention fatigue energy changes",
+                "sleep Po Headaches of sleepiness Anxiety Lack of Daytime lack changes energy attention fatigue Mood concentration",
+                "lack of Po sleepiness energy of Mood concentration sleep Headaches changes Lack attention fatigue Anxiety Daytime",
+                "Mood Po attention changes concentration of of lack energy Headaches Daytime sleep fatigue sleepiness Anxiety Lack",
+                "sleepiness Anxiety Po of Daytime Mood changes Lack lack Headaches concentration attention energy sleep fatigue of",
+                "sleepiness of energy of Mood attention Headaches Anxiety Po Lack concentration Daytime changes sleep fatigue lack",
+                "of Daytime sleepiness attention Po changes Anxiety Headaches of Mood energy sleep Lack lack concentration fatigue",
+                "Daytime Anxiety fatigue of concentration Headaches energy sleep lack sleepiness Lack Mood attention of Po changes"
+            ],
+            "response": [
+                "You are most likely suffering from Insomnia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease23"
+            ],
+            "code": [
+                "cough fever tenderness sore sinuses pressure in pain the ears in cloudy the headache throat nasal teeth sinus discolored facial",
+                "ears cloudy discolored headache teeth nasal pain cough facial in pressure sinuses the fever sore in sinus tenderness throat the",
+                "nasal in tenderness sinus cough cloudy discolored sinuses sore ears pressure the pain throat in facial the teeth fever headache",
+                "sinus the headache the facial sinuses fever pain in pressure nasal tenderness ears teeth sore cough in throat cloudy discolored",
+                "sore the sinus cough tenderness throat the pain facial discolored fever nasal in in cloudy ears teeth sinuses pressure headache",
+                "pressure in teeth facial sinuses the cloudy the discolored sinus cough sore tenderness throat fever nasal headache pain ears in",
+                "fever facial in sinus cough pain pressure nasal sore the discolored headache teeth sinuses tenderness in the throat ears cloudy",
+                "in discolored fever pressure tenderness the cough sore in the headache nasal cloudy teeth pain throat ears facial sinuses sinus",
+                "throat headache teeth cough pressure discolored sinuses sore sinus facial the in cloudy tenderness pain fever the ears in nasal",
+                "discolored ears tenderness sinuses headache cough throat in teeth sore nasal facial the sinus in the cloudy fever pain pressure",
+                "cough sinuses ears fever nasal sore sinus headache teeth tenderness the throat cloudy the in pressure facial discolored in pain",
+                "teeth facial in cough ears pain nasal the tenderness in headache fever discolored sinuses the sore cloudy pressure throat sinus",
+                "throat nasal ears teeth cough sore tenderness cloudy discolored pressure in fever pain the headache sinus facial in the sinuses",
+                "tenderness throat teeth discolored headache sinuses the facial sore nasal sinus in pressure fever ears cough the cloudy pain in",
+                "pressure teeth nasal pain sore in cough discolored in the facial sinus headache sinuses ears cloudy the fever tenderness throat",
+                "pressure in teeth cloudy sinus ears discolored in headache sore the nasal throat tenderness facial cough sinuses fever the pain",
+                "cloudy throat sinuses sinus nasal teeth in ears fever pain in sore tenderness facial cough the headache the pressure discolored",
+                "in throat in discolored ears pressure pain facial headache cloudy the sinus tenderness cough the sinuses nasal sore fever teeth",
+                "pain sore fever cough in ears headache cloudy tenderness facial teeth pressure throat the in sinuses sinus the discolored nasal",
+                "in fever sore facial teeth cloudy discolored the nasal sinuses pressure the headache sinus ears in pain tenderness cough throat"
+            ],
+            "response": [
+                "You are most likely suffering from Sinus Infection"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease24"
+            ],
+            "code": [
+                "aches of loss fever muscle fatigue appetite",
+                "fever loss appetite muscle of aches fatigue",
+                "of loss aches fatigue fever appetite muscle",
+                "aches fever of loss appetite muscle fatigue",
+                "fatigue fever muscle loss of aches appetite",
+                "loss fever fatigue muscle aches appetite of",
+                "appetite muscle loss fever of aches fatigue"
+            ],
+            "response": [
+                "You are most likely suffering from hepatitis c"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease25"
+            ],
+            "code": [
+                "painful loss swollen glands appetite salivary fever fatigue headache",
+                "appetite painful headache salivary fever loss glands fatigue swollen",
+                "loss headache glands fatigue salivary fever swollen painful appetite",
+                "loss glands painful salivary swollen headache fatigue appetite fever",
+                "painful loss swollen appetite fever fatigue salivary glands headache",
+                "swollen salivary fatigue appetite painful fever glands headache loss",
+                "fatigue loss swollen appetite painful fever salivary glands headache",
+                "appetite fatigue swollen loss glands headache fever salivary painful",
+                "fever fatigue painful swollen headache appetite salivary loss glands"
+            ],
+            "response": [
+                "You are most likely suffering from mumps"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease26"
+            ],
+            "code": [
+                "cough conjunctivitis runny fever high nose dry",
+                "runny conjunctivitis high dry cough nose fever",
+                "cough fever high nose dry runny conjunctivitis",
+                "conjunctivitis nose cough fever high runny dry",
+                "conjunctivitis fever runny dry nose cough high",
+                "runny conjunctivitis fever dry cough high nose",
+                "cough conjunctivitis nose runny dry high fever"
+            ],
+            "response": [
+                "You are most likely suffering from measles"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease27"
+            ],
+            "code": [
+                "muscle dry difficulty swallowing vision weakness drooping double mouth blurred vision eyelids",
+                "double drooping weakness muscle dry swallowing mouth blurred eyelids vision difficulty vision",
+                "vision mouth weakness drooping eyelids vision difficulty swallowing blurred double dry muscle",
+                "vision drooping difficulty muscle double swallowing mouth blurred dry eyelids vision weakness",
+                "dry muscle vision swallowing blurred drooping mouth weakness vision eyelids double difficulty",
+                "eyelids mouth double vision weakness difficulty drooping vision dry muscle swallowing blurred",
+                "muscle dry drooping swallowing vision eyelids vision double blurred difficulty mouth weakness",
+                "blurred double drooping eyelids muscle dry vision swallowing mouth difficulty weakness vision",
+                "vision double dry blurred muscle drooping mouth eyelids difficulty vision swallowing weakness",
+                "swallowing vision blurred vision mouth dry difficulty eyelids muscle weakness double drooping",
+                "difficulty eyelids double muscle mouth drooping blurred swallowing dry weakness vision vision",
+                "mouth swallowing double weakness dry eyelids vision vision blurred difficulty drooping muscle"
+            ],
+            "response": [
+                "You are most likely suffering from botulism"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease28"
+            ],
+            "code": [
+                "rapid deterioration mental",
+                "mental rapid deterioration"
+            ],
+            "response": [
+                "You are most likely suffering from mad cow disease"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease29"
+            ],
+            "code": [
+                "neck irritability sudden stiff loss headache memory back loss weakness muscle vomiting seizures of po confusion consciousness fever responsiveness drowsiness",
+                "confusion of memory responsiveness fever loss consciousness sudden loss muscle back headache po irritability drowsiness seizures stiff weakness neck vomiting",
+                "loss loss weakness seizures confusion po sudden stiff irritability vomiting memory fever of responsiveness neck consciousness headache muscle back drowsiness",
+                "vomiting muscle back memory fever loss confusion of drowsiness po loss sudden seizures headache responsiveness weakness irritability consciousness neck stiff",
+                "of loss irritability muscle vomiting loss memory seizures stiff responsiveness consciousness headache fever confusion back weakness neck po drowsiness sudden",
+                "fever drowsiness sudden vomiting headache confusion weakness consciousness seizures back irritability of po loss muscle stiff loss memory responsiveness neck",
+                "loss loss consciousness seizures of irritability neck sudden po fever muscle drowsiness memory back confusion vomiting headache weakness stiff responsiveness",
+                "weakness consciousness po loss headache memory seizures back neck drowsiness sudden stiff fever loss of responsiveness irritability vomiting muscle confusion",
+                "vomiting loss headache sudden muscle neck seizures loss stiff weakness fever back memory irritability drowsiness responsiveness consciousness confusion po of",
+                "vomiting of responsiveness neck loss loss back muscle confusion drowsiness stiff headache weakness consciousness irritability seizures po memory sudden fever",
+                "memory sudden confusion vomiting fever seizures loss stiff back drowsiness po weakness headache neck irritability responsiveness of consciousness muscle loss",
+                "of loss confusion headache drowsiness muscle po irritability back seizures sudden responsiveness neck weakness loss fever memory stiff vomiting consciousness",
+                "loss irritability memory weakness seizures vomiting responsiveness stiff back of consciousness drowsiness fever muscle confusion headache loss sudden po neck",
+                "back vomiting responsiveness confusion weakness seizures of sudden loss consciousness irritability stiff memory loss headache drowsiness neck muscle po fever",
+                "memory seizures irritability drowsiness weakness vomiting loss consciousness responsiveness sudden neck loss of confusion headache stiff po fever muscle back",
+                "confusion vomiting fever seizures weakness po sudden of back loss responsiveness drowsiness stiff muscle consciousness neck loss headache irritability memory",
+                "memory back fever weakness muscle loss drowsiness seizures vomiting sudden loss responsiveness of irritability stiff headache neck confusion po consciousness",
+                "memory vomiting back loss fever drowsiness irritability confusion loss responsiveness consciousness muscle sudden stiff headache po seizures neck of weakness",
+                "drowsiness back memory irritability fever vomiting muscle consciousness confusion headache stiff loss seizures responsiveness neck po loss weakness sudden of",
+                "muscle weakness vomiting stiff loss drowsiness of memory po confusion sudden irritability headache neck seizures loss consciousness responsiveness back fever"
+            ],
+            "response": [
+                "You are most likely suffering from meningetis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease30"
+            ],
+            "code": [
+                "upper nausea vomiting pain abdominal abdominal distention",
+                "vomiting pain upper abdominal distention nausea abdominal",
+                "pain nausea upper vomiting distention abdominal abdominal",
+                "distention upper abdominal abdominal nausea vomiting pain",
+                "vomiting pain distention upper abdominal nausea abdominal",
+                "abdominal upper distention vomiting pain nausea abdominal",
+                "vomiting upper nausea abdominal distention abdominal pain"
+            ],
+            "response": [
+                "You are most likely suffering from indigestion"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease31"
+            ],
+            "code": [
+                "Less bleeding diarrhea fissures prolapse Lower rectal movements Anal abdominal bowel discomfort",
+                "diarrhea Anal bowel rectal Less prolapse movements fissures Lower discomfort abdominal bleeding",
+                "prolapse discomfort Anal abdominal Less rectal fissures Lower bowel bleeding diarrhea movements",
+                "prolapse fissures abdominal movements Less bowel bleeding discomfort Lower diarrhea Anal rectal",
+                "Lower rectal fissures Anal bleeding abdominal bowel diarrhea movements prolapse Less discomfort",
+                "fissures bowel diarrhea rectal Anal abdominal movements bleeding prolapse discomfort Lower Less",
+                "movements fissures Lower abdominal Less prolapse bowel diarrhea Anal discomfort rectal bleeding",
+                "rectal prolapse Less discomfort bleeding abdominal Lower movements fissures bowel diarrhea Anal",
+                "Less bleeding movements discomfort bowel Anal rectal abdominal Lower fissures prolapse diarrhea",
+                "movements fissures Anal diarrhea bleeding Lower Less abdominal discomfort bowel rectal prolapse",
+                "abdominal Anal diarrhea Less movements prolapse bleeding Lower discomfort fissures rectal bowel",
+                "fissures abdominal rectal Less prolapse movements bleeding diarrhea discomfort Lower bowel Anal"
+            ],
+            "response": [
+                "You are most likely suffering from constipation"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease32"
+            ],
+            "code": [
+                "appetite tenderness nausea of pain abdominal fever vomiting loss abdominal",
+                "fever of pain vomiting tenderness abdominal nausea loss appetite abdominal",
+                "tenderness pain of nausea vomiting fever abdominal abdominal appetite loss",
+                "nausea abdominal loss fever pain appetite tenderness of abdominal vomiting",
+                "abdominal appetite fever tenderness of abdominal pain loss nausea vomiting",
+                "vomiting of pain nausea abdominal tenderness fever loss abdominal appetite",
+                "loss of appetite nausea tenderness fever abdominal abdominal pain vomiting",
+                "appetite fever loss of abdominal nausea tenderness abdominal vomiting pain",
+                "pain loss fever nausea appetite abdominal tenderness abdominal vomiting of",
+                "appetite abdominal pain abdominal vomiting fever nausea tenderness loss of"
+            ],
+            "response": [
+                "You are most likely suffering from appendicitis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease33"
+            ],
+            "code": [
+                "may fatigue trouble problems sleep irritabilityheadaches attention concentrating restlessness problems as that appear also memory",
+                "problems that concentrating fatigue sleep may memory appear restlessness also as trouble problems attention irritabilityheadaches",
+                "also fatigue concentrating as trouble restlessness may attention sleep memory problems that appear problems irritabilityheadaches",
+                "also as sleep problems memory that fatigue appear trouble concentrating may problems irritabilityheadaches attention restlessness",
+                "problems memory irritabilityheadaches sleep also may problems concentrating that restlessness appear as fatigue trouble attention",
+                "also problems restlessness trouble may concentrating irritabilityheadaches problems memory fatigue appear attention as that sleep",
+                "that memory trouble also concentrating problems may irritabilityheadaches problems sleep restlessness appear as fatigue attention",
+                "concentrating restlessness problems irritabilityheadaches attention sleep as problems may trouble memory fatigue that appear also",
+                "attention trouble problems appear also sleep fatigue memory problems restlessness irritabilityheadaches as may concentrating that",
+                "that as restlessness trouble concentrating fatigue problems irritabilityheadaches attention sleep memory problems may appear also",
+                "trouble restlessness memory problems also appear that concentrating problems sleep may attention irritabilityheadaches as fatigue",
+                "trouble also appear as irritabilityheadaches fatigue problems concentrating sleep problems attention restlessness may that memory",
+                "also problems appear concentrating irritabilityheadaches problems trouble fatigue sleep as memory restlessness may attention that",
+                "fatigue problems concentrating may attention as also irritabilityheadaches restlessness problems appear trouble that memory sleep",
+                "irritabilityheadaches sleep memory problems trouble fatigue restlessness also concentrating attention that problems appear as may"
+            ],
+            "response": [
+                "You are most likely suffering from Anxiety Disorder"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease34"
+            ],
+            "code": [
+                "Weight loss Diarrhea pain diarrhea Vomiting Bloody Fever Abdominal",
+                "Bloody Vomiting loss Abdominal Fever Weight diarrhea pain Diarrhea",
+                "pain Bloody loss Diarrhea diarrhea Abdominal Vomiting Weight Fever",
+                "Diarrhea loss Abdominal diarrhea Bloody Fever Weight pain Vomiting",
+                "Diarrhea Abdominal Weight Vomiting loss Fever diarrhea pain Bloody",
+                "diarrhea loss Fever Diarrhea Vomiting Weight pain Bloody Abdominal",
+                "Diarrhea Fever loss Weight diarrhea Abdominal pain Bloody Vomiting",
+                "Weight diarrhea Fever Bloody Vomiting loss Abdominal Diarrhea pain",
+                "Abdominal pain diarrhea loss Weight Bloody Vomiting Fever Diarrhea"
+            ],
+            "response": [
+                "You are most likely suffering from crohn's disease"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease35"
+            ],
+            "code": [
+                "Sleep droopy double paralysis daytime hallucinations vision eyelids Excessive sleepiness",
+                "double droopy paralysis Excessive Sleep sleepiness daytime vision hallucinations eyelids",
+                "eyelids Sleep droopy double sleepiness Excessive hallucinations paralysis vision daytime",
+                "eyelids sleepiness hallucinations paralysis Sleep vision Excessive double daytime droopy",
+                "paralysis hallucinations Excessive double vision droopy daytime eyelids sleepiness Sleep",
+                "daytime paralysis eyelids hallucinations Excessive droopy Sleep vision double sleepiness",
+                "sleepiness double vision Sleep droopy daytime Excessive eyelids hallucinations paralysis",
+                "vision daytime sleepiness Sleep eyelids hallucinations double paralysis droopy Excessive",
+                "paralysis vision droopy eyelids sleepiness hallucinations Sleep Excessive daytime double",
+                "daytime vision hallucinations Excessive sleepiness Sleep droopy paralysis double eyelids"
+            ],
+            "response": [
+                "You are most likely suffering from narcolepsy"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease36"
+            ],
+            "code": [
+                "urine blood kidney in in tract urinary infections pain tractU painstones the rinary the",
+                "blood urine rinary urinary painstones the the kidney infections tract tractU pain in in",
+                "the rinary kidney infections blood in urinary urine tract painstones the in pain tractU",
+                "blood tract in urine kidney infections in pain the the urinary tractU painstones rinary",
+                "in infections urine in tract pain tractU painstones blood kidney the the rinary urinary",
+                "infections in tract urinary blood kidney in the tractU rinary painstones urine the pain",
+                "kidney tractU the urinary painstones blood in urine tract the pain infections in rinary",
+                "rinary in the pain urine blood infections the tract in tractU painstones kidney urinary",
+                "urinary infections pain blood in painstones urine the kidney in tractU tract rinary the",
+                "rinary urine tractU in blood in painstones kidney tract the pain the infections urinary",
+                "the pain painstones blood rinary infections the urinary urine in tractU tract in kidney",
+                "tractU tract rinary the kidney painstones pain in infections urine urinary blood in the",
+                "the infections tractU in blood tract urine pain in kidney rinary painstones the urinary",
+                "blood painstones urinary tract infections kidney in urine in the tractU the pain rinary"
+            ],
+            "response": [
+                "You are most likely suffering from cystinuria"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease37"
+            ],
+            "code": [
+                "urinating back pain pain pain Blood Groin low pain rectal Fever abdominal",
+                "pain Fever low pain rectal abdominal Blood Groin pain back urinating pain",
+                "Fever rectal pain pain low pain back urinating Groin pain Blood abdominal",
+                "Groin back Blood pain pain Fever pain pain urinating rectal low abdominal",
+                "low abdominal pain back pain rectal pain Blood Groin urinating pain Fever",
+                "Groin pain Fever abdominal pain urinating Blood pain rectal pain low back",
+                "pain pain pain abdominal low Blood rectal pain urinating back Groin Fever",
+                "back Fever pain urinating Blood Groin pain pain rectal pain low abdominal",
+                "rectal Blood pain Fever pain Groin abdominal urinating back pain pain low",
+                "urinating Groin low rectal abdominal pain pain back Blood Fever pain pain",
+                "low pain urinating Fever Groin abdominal Blood pain pain pain back rectal",
+                "pain low Blood pain abdominal pain urinating rectal Fever Groin pain back"
+            ],
+            "response": [
+                "You are most likely suffering from prostatitis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease38"
+            ],
+            "code": [
+                "to fullness pressure heaviness that the goes of shortness breath chest pain arm tightness sweating ache",
+                "ache goes heaviness chest shortness pressure pain tightness sweating of the that breath fullness arm to",
+                "pain the tightness of breath chest that goes sweating pressure ache shortness arm fullness to heaviness",
+                "tightness goes heaviness that ache fullness of arm pain chest sweating to breath the pressure shortness",
+                "tightness shortness breath that goes to of pressure sweating the pain arm fullness chest ache heaviness",
+                "to ache breath pressure heaviness sweating that chest arm pain the tightness shortness fullness goes of",
+                "to shortness of heaviness arm chest ache pain fullness the sweating breath goes that pressure tightness",
+                "that of pressure shortness to the sweating fullness goes tightness heaviness arm ache pain breath chest",
+                "shortness ache heaviness of goes that the tightness chest pressure sweating fullness pain to arm breath",
+                "fullness arm ache the pain breath that pressure chest heaviness to goes shortness of tightness sweating",
+                "to shortness fullness sweating pressure heaviness chest arm of pain the breath goes tightness ache that",
+                "of ache tightness heaviness breath shortness pressure chest pain to fullness sweating the that goes arm",
+                "ache chest pain fullness sweating that goes tightness of pressure the heaviness to arm breath shortness",
+                "that tightness heaviness pain arm pressure goes ache of sweating to fullness the breath shortness chest",
+                "tightness breath pressure chest sweating arm that fullness heaviness ache pain the to goes shortness of",
+                "arm sweating the shortness chest pain breath heaviness fullness goes to pressure ache that tightness of"
+            ],
+            "response": [
+                "You are most likely suffering from Angina"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease39"
+            ],
+            "code": [
+                "coma aches skin headache paralysis fever sleepiness stiff disorientation convulsions neck body tremors rash",
+                "coma convulsions body rash skin paralysis stiff disorientation sleepiness fever tremors neck aches headache",
+                "headache disorientation tremors paralysis coma skin sleepiness stiff neck rash fever body convulsions aches",
+                "aches sleepiness stiff tremors skin fever disorientation body paralysis neck convulsions rash headache coma",
+                "stiff paralysis sleepiness fever rash disorientation skin coma aches convulsions headache tremors neck body",
+                "disorientation tremors sleepiness body aches headache skin coma stiff convulsions rash neck paralysis fever",
+                "neck convulsions rash stiff paralysis coma aches disorientation body sleepiness headache fever tremors skin",
+                "sleepiness disorientation headache body coma fever tremors convulsions aches skin neck stiff rash paralysis",
+                "tremors fever neck aches convulsions disorientation paralysis skin coma body rash headache sleepiness stiff",
+                "stiff headache tremors body sleepiness aches rash paralysis coma neck fever disorientation convulsions skin",
+                "paralysis skin body headache tremors stiff rash disorientation coma fever sleepiness neck aches convulsions",
+                "tremors convulsions stiff coma paralysis disorientation fever neck headache aches skin sleepiness body rash",
+                "sleepiness disorientation neck fever convulsions headache tremors paralysis skin coma aches stiff rash body",
+                "tremors paralysis headache rash skin convulsions disorientation neck coma aches fever sleepiness stiff body"
+            ],
+            "response": [
+                "You are most likely suffering from west nile virus"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease40"
+            ],
+            "code": [
+                "pressure blood fevers chills pus swollen red low high",
+                "low red swollen fevers pus high pressure chills blood",
+                "low swollen chills red pus high pressure blood fevers",
+                "red fevers blood pus low chills high swollen pressure",
+                "blood pressure swollen red high low chills fevers pus",
+                "fevers blood high chills swollen pressure pus red low",
+                "red swollen low high fevers pressure blood chills pus",
+                "low fevers pressure high blood chills pus red swollen",
+                "fevers chills red swollen blood low pus high pressure"
+            ],
+            "response": [
+                "You are most likely suffering from Staph Infection"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease41"
+            ],
+            "code": [
+                "vision blurred"
+            ],
+            "response": [
+                "You are most likely suffering from Macular Degeneration(Age-Related Type)"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease42"
+            ],
+            "code": [
+                "Flashing lights floaters",
+                "lights floaters Flashing",
+                "Flashing floaters lights"
+            ],
+            "response": [
+                "You are most likely suffering from Retinal detachment"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease43"
+            ],
+            "code": [
+                "vision of haziness blurriness",
+                "blurriness haziness vision of",
+                "of haziness blurriness vision",
+                "haziness vision blurriness of"
+            ],
+            "response": [
+                "You are most likely suffering from Glaucoma"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease44"
+            ],
+            "code": [
+                "cancer the periods pelvic heavy womb uterus ovaries the of pain cervix of prolapse",
+                "the ovaries uterus cancer the pelvic heavy of cervix prolapse periods pain of womb",
+                "of ovaries of heavy uterus prolapse cervix cancer pelvic the pain the periods womb",
+                "cervix pain the prolapse the womb uterus ovaries heavy pelvic of periods of cancer",
+                "periods womb cervix pain of cancer prolapse of heavy ovaries uterus pelvic the the",
+                "prolapse ovaries the womb of heavy cancer the of cervix pain uterus periods pelvic",
+                "heavy cancer cervix the ovaries uterus periods pelvic pain of of prolapse the womb",
+                "prolapse pain uterus heavy the periods of cervix of cancer the ovaries pelvic womb",
+                "prolapse periods womb uterus cancer ovaries cervix of heavy pain the pelvic the of",
+                "uterus of periods pain heavy the pelvic ovaries cancer the of prolapse cervix womb",
+                "cervix the uterus periods womb of the ovaries pain prolapse pelvic cancer of heavy",
+                "heavy cancer the of prolapse pain cervix womb the ovaries pelvic uterus of periods",
+                "cancer pain cervix prolapse ovaries the periods the pelvic of of heavy womb uterus",
+                "cervix periods of the cancer of heavy pelvic prolapse uterus the ovaries pain womb"
+            ],
+            "response": [
+                "You are most likely suffering from hysterectomy"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease45"
+            ],
+            "code": [
+                "that is typically odorless vaginal a discharge thick",
+                "thick vaginal a that discharge is typically odorless",
+                "is discharge typically that vaginal a odorless thick",
+                "is thick discharge typically that vaginal a odorless",
+                "thick is typically discharge odorless vaginal that a",
+                "vaginal thick a that is discharge typically odorless",
+                "vaginal discharge thick a that is odorless typically",
+                "that a typically discharge odorless is thick vaginal"
+            ],
+            "response": [
+                "You are most likely suffering from yeast infection"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease46"
+            ],
+            "code": [
+                "upset easily irritable withdrawal Sleep worsen depression underweight social disrupted",
+                "social depression irritable easily upset worsen disrupted Sleep withdrawal underweight",
+                "worsen withdrawal upset depression underweight Sleep irritable social easily disrupted",
+                "easily underweight depression worsen irritable Sleep upset disrupted social withdrawal",
+                "easily underweight withdrawal depression worsen irritable Sleep disrupted social upset",
+                "easily upset depression irritable social withdrawal worsen Sleep disrupted underweight",
+                "underweight disrupted social upset worsen Sleep depression withdrawal irritable easily",
+                "irritable disrupted Sleep worsen upset withdrawal easily social depression underweight",
+                "Sleep disrupted easily depression social upset underweight irritable worsen withdrawal",
+                "social Sleep worsen upset disrupted withdrawal depression irritable easily underweight"
+            ],
+            "response": [
+                "You are most likely suffering from anorexia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease47"
+            ],
+            "code": [
+                "discomfort of chest wheezing breath shortness cough",
+                "wheezing cough chest breath discomfort of shortness",
+                "wheezing shortness cough chest breath discomfort of",
+                "shortness wheezing breath discomfort of chest cough",
+                "discomfort of cough shortness breath wheezing chest",
+                "discomfort of breath wheezing chest cough shortness",
+                "breath shortness discomfort cough chest of wheezing"
+            ],
+            "response": [
+                "You are most likely suffering from chronic obstructive pulmonary disease"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease48"
+            ],
+            "code": [
+                "shortness wheezing breath of",
+                "breath shortness of wheezing",
+                "of shortness breath wheezing"
+            ],
+            "response": [
+                "You are most likely suffering from emphysema"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease49"
+            ],
+            "code": [
+                "area from infection areas grows of which hair skin tiny of",
+                "skin grows hair infection of areas which tiny area of from",
+                "infection grows tiny area hair skin areas which of from of",
+                "hair of of areas grows area skin tiny from which infection",
+                "from of areas infection tiny hair area grows skin of which",
+                "of tiny area which of skin hair from grows infection areas",
+                "from grows tiny of which skin areas infection hair of area",
+                "of areas hair of tiny infection area grows which from skin",
+                "of infection hair from skin tiny grows areas which of area",
+                "from infection which hair areas of skin of area tiny grows",
+                "areas infection of skin hair which from area grows of tiny"
+            ],
+            "response": [
+                "You are most likely suffering from boils"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease50"
+            ],
+            "code": [
+                "shaped in col look red from pink shiny ranging raised to dome",
+                "in to ranging col raised look pink red shaped dome from shiny",
+                "red look in ranging shaped col dome to shiny pink from raised",
+                "ranging dome shaped from red in shiny pink look col raised to",
+                "pink look to ranging raised from col red dome shaped shiny in",
+                "to red ranging pink shaped in from shiny col look dome raised",
+                "to pink shaped ranging look from in raised shiny red col dome",
+                "dome shaped pink shiny to from raised ranging red look col in",
+                "in raised from to shiny pink col dome ranging shaped red look",
+                "pink raised red from in dome shaped ranging col to look shiny",
+                "in from shiny pink red raised ranging look col to dome shaped",
+                "red dome to look raised col from shaped pink shiny in ranging"
+            ],
+            "response": [
+                "You are most likely suffering from keloid scar"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease51"
+            ],
+            "code": [
+                "small flushing cysts facial the of blushing tissue redness acial skin thickening",
+                "acial small facial redness flushing thickening blushing of tissue the cysts skin",
+                "small thickening flushing skin of redness facial blushing tissue the acial cysts",
+                "thickening redness acial small tissue skin cysts the of flushing facial blushing",
+                "skin blushing the small acial thickening redness cysts tissue flushing facial of",
+                "blushing skin flushing redness small facial thickening tissue cysts of acial the",
+                "of blushing tissue redness cysts flushing thickening small acial facial skin the",
+                "redness acial blushing the skin thickening of flushing small facial cysts tissue",
+                "thickening the cysts small skin facial of blushing tissue flushing acial redness",
+                "the acial flushing of redness thickening facial blushing tissue cysts small skin",
+                "redness facial flushing blushing thickening the skin of cysts acial tissue small",
+                "cysts the of blushing small tissue redness flushing acial thickening skin facial"
+            ],
+            "response": [
+                "You are most likely suffering from rosacea"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease52"
+            ],
+            "code": [
+                "blistering fever aches fluid body pain rash nausea stinging stabbing burning chills itching tingling rash one filled sided headache red sensation",
+                "rash chills headache stinging fever blistering filled pain red aches body itching stabbing sided sensation burning one tingling nausea rash fluid",
+                "headache burning stabbing body aches pain fever rash sided chills tingling filled stinging itching red nausea blistering one fluid rash sensation",
+                "tingling one chills blistering nausea sided headache filled sensation fluid rash burning body stabbing itching fever rash stinging pain red aches",
+                "fluid chills stinging body itching tingling filled burning sided rash aches nausea rash one blistering pain fever headache red sensation stabbing",
+                "body stinging rash tingling pain stabbing fluid one rash itching chills nausea blistering red aches sided fever burning filled headache sensation",
+                "pain headache itching burning body red chills aches stinging nausea blistering rash fever one fluid sensation tingling filled stabbing sided rash",
+                "stinging body pain one stabbing itching tingling rash headache nausea fluid blistering chills aches burning rash red filled sided fever sensation",
+                "red rash sided blistering burning itching aches pain body filled rash tingling chills stinging nausea headache sensation fluid one fever stabbing",
+                "rash sided filled body headache itching fluid stinging red tingling sensation blistering fever chills nausea stabbing one burning pain aches rash",
+                "body pain sensation burning red stabbing headache aches fluid tingling blistering itching rash stinging filled nausea sided chills one rash fever",
+                "rash headache red aches fluid itching blistering stabbing fever burning filled sided chills one stinging nausea sensation pain body tingling rash",
+                "stinging pain rash chills aches rash one sided red body sensation tingling fluid fever headache stabbing itching burning filled blistering nausea",
+                "headache pain fluid sensation sided body rash stinging rash chills blistering itching tingling red fever aches nausea burning filled one stabbing",
+                "rash fluid chills blistering nausea burning stinging sided fever one stabbing sensation rash body filled aches headache pain red itching tingling",
+                "blistering aches rash burning sided stinging fluid body rash itching tingling fever stabbing chills pain filled red sensation one nausea headache",
+                "aches stabbing rash itching headache rash burning one blistering tingling red body fever pain nausea fluid filled sensation stinging chills sided",
+                "red one chills burning fluid headache tingling blistering rash sensation aches nausea stinging rash body itching pain stabbing filled fever sided",
+                "stabbing nausea rash one headache body sided stinging blistering sensation chills red fluid pain aches burning fever filled rash itching tingling",
+                "body red one filled nausea sensation tingling rash pain fever stinging stabbing blistering rash aches headache burning chills fluid sided itching",
+                "fluid headache sided red aches rash body rash stabbing sensation stinging nausea pain blistering chills filled tingling fever one burning itching"
+            ],
+            "response": [
+                "You are most likely suffering from shingles(herpes zoster)"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease53"
+            ],
+            "code": [
+                "scaly head forehead plaques Reddish",
+                "plaques forehead scaly head Reddish",
+                "scaly plaques forehead head Reddish",
+                "scaly head plaques forehead Reddish",
+                "Reddish forehead head scaly plaques"
+            ],
+            "response": [
+                "You are most likely suffering from dandruff"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease54"
+            ],
+            "code": [
+                "uninflamed pus filled pimples blackheads t",
+                "t pimples filled blackheads uninflamed pus",
+                "blackheads pimples pus t uninflamed filled",
+                "pus uninflamed pimples filled blackheads t",
+                "pimples filled blackheads pus t uninflamed",
+                "uninflamed pimples t filled pus blackheads"
+            ],
+            "response": [
+                "You are most likely suffering from acne"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease55"
+            ],
+            "code": [
+                "growth skin painless fleshy the on",
+                "skin fleshy growth painless on the",
+                "fleshy skin painless on the growth",
+                "on fleshy the painless growth skin",
+                "on growth painless skin fleshy the",
+                "fleshy the on painless growth skin"
+            ],
+            "response": [
+                "You are most likely suffering from common wart"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease56"
+            ],
+            "code": [
+                "tightness swelling pain tenderness redness hardening skin itching",
+                "redness skin tightness swelling hardening tenderness pain itching",
+                "redness tightness tenderness itching pain swelling hardening skin",
+                "redness pain skin tenderness tightness hardening swelling itching",
+                "pain tightness itching swelling skin hardening redness tenderness",
+                "redness itching swelling tightness pain skin tenderness hardening",
+                "itching redness skin tenderness hardening pain tightness swelling",
+                "itching tenderness pain skin redness tightness swelling hardening"
+            ],
+            "response": [
+                "You are most likely suffering from Scleroderma"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease57"
+            ],
+            "code": [
+                "big sever violet a mild colour angular bumps borders itching",
+                "bumps big itching sever colour borders angular mild violet a",
+                "big angular bumps a sever itching borders mild colour violet",
+                "itching colour big bumps borders mild a violet angular sever",
+                "bumps a mild colour angular sever borders itching violet big",
+                "bumps itching violet big angular borders sever mild a colour",
+                "bumps angular a sever itching colour borders violet mild big",
+                "borders itching violet angular mild sever big colour bumps a",
+                "big borders violet itching angular sever mild colour a bumps",
+                "sever bumps borders mild big violet angular a itching colour"
+            ],
+            "response": [
+                "You are most likely suffering from Lichen planus"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease58"
+            ],
+            "code": [
+                "forgetfulness simple old age",
+                "old age simple forgetfulness",
+                "simple forgetfulness age old"
+            ],
+            "response": [
+                "You are most likely suffering from Dementia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease59"
+            ],
+            "code": [
+                "flare itch swell welts",
+                "welts itch flare swell",
+                "flare welts swell itch"
+            ],
+            "response": [
+                "You are most likely suffering from hives"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease60"
+            ],
+            "code": [
+                "pain abdominal teeth vomiting skin discolored glands throat deteriorating constipation salivary dehydration swollen dry sore",
+                "dry glands teeth skin abdominal constipation sore dehydration deteriorating vomiting salivary pain throat discolored swollen",
+                "teeth skin dehydration deteriorating swollen constipation abdominal vomiting glands salivary pain sore throat dry discolored",
+                "dry throat dehydration salivary swollen deteriorating abdominal pain sore skin teeth vomiting glands constipation discolored",
+                "skin vomiting throat salivary glands pain swollen constipation discolored dehydration dry teeth abdominal deteriorating sore",
+                "swollen vomiting skin abdominal salivary deteriorating discolored dehydration pain constipation sore throat glands teeth dry",
+                "skin vomiting pain teeth dehydration throat swollen glands sore deteriorating salivary discolored dry constipation abdominal",
+                "glands teeth abdominal dehydration deteriorating constipation salivary discolored vomiting sore skin swollen throat pain dry",
+                "glands swollen vomiting throat abdominal pain constipation discolored dry sore salivary deteriorating skin dehydration teeth",
+                "discolored dehydration abdominal swollen teeth deteriorating constipation glands dry throat salivary skin pain vomiting sore",
+                "deteriorating dehydration glands constipation teeth vomiting discolored sore pain throat abdominal salivary dry skin swollen",
+                "swollen constipation skin abdominal deteriorating vomiting dry salivary dehydration throat pain teeth sore glands discolored",
+                "dehydration salivary teeth abdominal swollen constipation dry glands discolored sore pain skin deteriorating throat vomiting",
+                "dehydration glands deteriorating abdominal constipation sore teeth swollen pain skin vomiting dry discolored throat salivary",
+                "sore salivary abdominal glands vomiting deteriorating throat teeth swollen dehydration pain discolored dry skin constipation"
+            ],
+            "response": [
+                "You are most likely suffering from bulimia nervosa"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease61"
+            ],
+            "code": [
+                "sex Penile of penis completion occurs f hard erection enough",
+                "penis sex erection enough hard Penile f completion occurs of",
+                "penis Penile of enough erection f hard sex completion occurs",
+                "penis erection sex Penile f enough hard occurs completion of",
+                "penis Penile enough of completion f hard erection sex occurs",
+                "penis sex completion f hard enough of erection Penile occurs",
+                "enough f Penile occurs penis of sex completion erection hard",
+                "sex penis erection enough Penile hard occurs f completion of",
+                "of sex enough f penis completion Penile erection hard occurs",
+                "enough Penile hard erection sex of occurs completion f penis"
+            ],
+            "response": [
+                "You are most likely suffering from erectile dysfunction"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease62"
+            ],
+            "code": [
+                "urgently flow tract of of need blockage urinate the urine urinary to infections slow urethra",
+                "of the urinary flow to slow urgently need urinate of blockage urethra tract infections urine",
+                "urine of of urethra need infections to slow urgently urinate urinary flow the blockage tract",
+                "of slow flow urgently need tract to infections urinate urinary urine blockage of the urethra",
+                "tract blockage of urinary urine slow need flow urinate infections the to urgently urethra of",
+                "of urine infections of tract flow need to urethra urgently the urinate blockage slow urinary",
+                "urinary slow to blockage urinate of urethra of tract the urgently urine infections flow need",
+                "urinary infections blockage urgently to urinate slow need flow tract of urine the of urethra",
+                "to urine urgently tract urethra of blockage need urinate slow infections urinary of the flow",
+                "urgently need blockage urethra urinate of urine slow urinary flow infections of tract the to",
+                "of to urethra urinate slow urine urinary of tract flow infections the blockage need urgently",
+                "need urinary flow blockage the tract infections urgently of of urinate slow urine urethra to",
+                "blockage to of urinary urine tract urethra urgently flow infections slow urinate of need the",
+                "urethra of slow urinate tract blockage flow to urine urinary the urgently infections of need",
+                "infections urinary flow tract of to urethra slow blockage urgently the of need urine urinate"
+            ],
+            "response": [
+                "You are most likely suffering from Enlarged Prostate Gland"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease63"
+            ],
+            "code": [
+                "Hopelessness Lack Fatigue appetite other excessive decisions of making of physical Loss concentration hunger Insomnia symptomsinadequacy",
+                "Insomnia Lack hunger making Hopelessness Loss appetite other of decisions Fatigue of physical excessive concentration symptomsinadequacy",
+                "symptomsinadequacy Insomnia Lack decisions appetite making of physical other Loss hunger of concentration excessive Fatigue Hopelessness",
+                "decisions symptomsinadequacy Lack other excessive appetite concentration of Hopelessness physical of Loss hunger Fatigue Insomnia making",
+                "excessive Hopelessness physical of other concentration decisions Fatigue making appetite Lack hunger of Insomnia symptomsinadequacy Loss",
+                "hunger Insomnia of physical symptomsinadequacy decisions excessive appetite Fatigue Hopelessness Loss other concentration of making Lack",
+                "physical of symptomsinadequacy Lack Fatigue Insomnia decisions excessive other concentration Hopelessness making of hunger Loss appetite",
+                "Fatigue physical hunger of of other Lack decisions making Insomnia appetite Hopelessness excessive symptomsinadequacy Loss concentration",
+                "excessive of Hopelessness symptomsinadequacy Insomnia Lack concentration appetite hunger making of physical Loss Fatigue other decisions",
+                "decisions making Insomnia of excessive of Loss appetite Fatigue physical hunger Hopelessness symptomsinadequacy other Lack concentration",
+                "appetite hunger decisions Lack symptomsinadequacy Hopelessness excessive of making Fatigue concentration Insomnia Loss of physical other",
+                "Hopelessness Fatigue hunger Insomnia Loss decisions symptomsinadequacy physical excessive making of concentration of Lack other appetite",
+                "hunger concentration decisions Lack symptomsinadequacy appetite other making Loss excessive physical of of Fatigue Insomnia Hopelessness",
+                "physical Fatigue appetite Loss of symptomsinadequacy other concentration Hopelessness Insomnia decisions making Lack excessive of hunger",
+                "Loss decisions excessive making concentration appetite other hunger Fatigue Lack physical Hopelessness of symptomsinadequacy of Insomnia",
+                "concentration Lack of appetite decisions Insomnia other excessive making physical Fatigue symptomsinadequacy Hopelessness of Loss hunger"
+            ],
+            "response": [
+                "You are most likely suffering from Dysthymia (Persistent Depressive Disorder)"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease64"
+            ],
+            "code": [
+                "stomach lightheadedness racing nausea pounding hyperventilation difficulty chest breathing upset dizziness heartbeat pains",
+                "pains heartbeat lightheadedness stomach difficulty chest nausea pounding upset racing breathing dizziness hyperventilation",
+                "chest difficulty pounding racing pains hyperventilation heartbeat dizziness upset nausea breathing lightheadedness stomach",
+                "racing pounding difficulty pains hyperventilation heartbeat chest dizziness lightheadedness stomach nausea breathing upset",
+                "upset nausea lightheadedness heartbeat difficulty pains racing breathing pounding dizziness chest hyperventilation stomach",
+                "lightheadedness nausea pounding hyperventilation breathing difficulty heartbeat stomach upset dizziness racing pains chest",
+                "lightheadedness dizziness nausea chest racing heartbeat pounding stomach pains hyperventilation difficulty breathing upset",
+                "stomach racing lightheadedness chest pounding hyperventilation heartbeat dizziness difficulty pains nausea breathing upset",
+                "lightheadedness hyperventilation upset racing chest stomach heartbeat pains breathing dizziness nausea difficulty pounding",
+                "heartbeat lightheadedness racing dizziness pains breathing upset pounding chest stomach nausea hyperventilation difficulty",
+                "pounding lightheadedness pains upset stomach heartbeat breathing hyperventilation dizziness difficulty chest nausea racing",
+                "heartbeat hyperventilation racing chest breathing difficulty lightheadedness pains stomach pounding upset dizziness nausea",
+                "dizziness lightheadedness stomach chest pains heartbeat difficulty hyperventilation upset pounding racing breathing nausea"
+            ],
+            "response": [
+                "You are most likely suffering from panic attack"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease65"
+            ],
+            "code": [
+                "sleep racing speech f elevated thoughts irritable pressured expansive mood need decreased",
+                "f mood need speech thoughts elevated pressured sleep expansive decreased racing irritable",
+                "thoughts pressured elevated racing need mood irritable f expansive decreased speech sleep",
+                "need thoughts f mood racing expansive decreased speech sleep pressured elevated irritable",
+                "thoughts speech sleep elevated need decreased pressured irritable mood f expansive racing",
+                "irritable speech f elevated thoughts decreased racing sleep expansive pressured need mood",
+                "f sleep irritable mood thoughts expansive racing need decreased pressured speech elevated",
+                "mood elevated pressured expansive decreased irritable thoughts sleep speech racing need f",
+                "decreased racing sleep thoughts irritable elevated speech pressured f need mood expansive",
+                "mood speech pressured elevated f need racing expansive irritable decreased thoughts sleep",
+                "speech pressured mood thoughts need expansive elevated f sleep irritable racing decreased",
+                "mood irritable f need racing thoughts speech sleep decreased pressured elevated expansive"
+            ],
+            "response": [
+                "You are most likely suffering from bipolar disorder"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease66"
+            ],
+            "code": [
+                "abdominal pain swelling abdominal upper lower chest pain belching distention discomfort",
+                "abdominal pain pain belching abdominal lower discomfort upper swelling distention chest",
+                "abdominal pain chest pain distention swelling belching lower upper abdominal discomfort",
+                "pain distention lower belching upper swelling discomfort abdominal abdominal pain chest",
+                "chest abdominal pain abdominal pain upper lower swelling discomfort belching distention",
+                "chest belching swelling pain lower pain distention discomfort abdominal upper abdominal",
+                "swelling abdominal pain discomfort abdominal upper belching pain lower distention chest",
+                "abdominal discomfort abdominal pain belching pain swelling chest upper lower distention",
+                "lower abdominal belching distention chest pain upper pain discomfort swelling abdominal",
+                "belching pain upper chest abdominal swelling lower pain abdominal distention discomfort",
+                "swelling abdominal chest lower upper distention abdominal pain discomfort pain belching"
+            ],
+            "response": [
+                "You are most likely suffering from Indigestion(Dyspepsia)"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease67"
+            ],
+            "code": [
+                "vomiting pale with skin along production headache Nausea dizziness saliva fatigue increased",
+                "pale Nausea along fatigue dizziness increased with skin production vomiting headache saliva",
+                "with vomiting fatigue skin increased along Nausea dizziness pale production headache saliva",
+                "increased dizziness fatigue pale skin headache saliva with Nausea production along vomiting",
+                "with skin headache fatigue saliva vomiting Nausea dizziness along increased production pale",
+                "production fatigue vomiting headache along with skin Nausea increased dizziness saliva pale",
+                "fatigue vomiting saliva production dizziness headache skin pale Nausea increased with along",
+                "increased skin pale along headache production Nausea with vomiting dizziness fatigue saliva",
+                "pale saliva headache production along increased dizziness fatigue skin Nausea with vomiting",
+                "with fatigue pale headache dizziness vomiting skin production along saliva increased Nausea",
+                "fatigue Nausea skin vomiting saliva with dizziness production pale along headache increased",
+                "with fatigue vomiting saliva along increased dizziness pale skin Nausea headache production"
+            ],
+            "response": [
+                "You are most likely suffering from motion sickness"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease68"
+            ],
+            "code": [
+                "confusion breath tired shortness becoming headache easily drowsiness of sleepiness fatigue",
+                "fatigue tired breath becoming sleepiness headache easily drowsiness confusion shortness of",
+                "becoming confusion tired sleepiness fatigue easily breath headache shortness of drowsiness",
+                "confusion tired drowsiness breath fatigue easily shortness becoming sleepiness of headache",
+                "becoming sleepiness headache tired confusion drowsiness breath shortness of easily fatigue",
+                "confusion drowsiness fatigue shortness of sleepiness tired headache easily breath becoming",
+                "headache of sleepiness becoming fatigue easily confusion shortness breath drowsiness tired",
+                "confusion drowsiness becoming tired headache breath of sleepiness easily shortness fatigue",
+                "becoming headache sleepiness breath of easily shortness tired fatigue confusion drowsiness",
+                "easily of fatigue breath confusion becoming tired headache shortness drowsiness sleepiness",
+                "sleepiness of becoming tired drowsiness easily breath confusion shortness fatigue headache"
+            ],
+            "response": [
+                "You are most likely suffering from respiratory acidosis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease69"
+            ],
+            "code": [
+                "lack jaundice shallow confusion breathing fatigue rapid sleepiness of headache appetite",
+                "fatigue lack sleepiness headache rapid shallow confusion appetite of jaundice breathing",
+                "breathing headache confusion appetite of shallow rapid jaundice sleepiness fatigue lack",
+                "headache sleepiness appetite lack breathing shallow of jaundice confusion fatigue rapid",
+                "appetite shallow sleepiness headache of fatigue breathing confusion jaundice lack rapid",
+                "sleepiness confusion rapid shallow appetite of fatigue jaundice headache lack breathing",
+                "breathing of rapid jaundice appetite shallow fatigue sleepiness confusion lack headache",
+                "confusion jaundice lack breathing shallow of rapid sleepiness headache fatigue appetite",
+                "lack confusion fatigue of jaundice breathing headache shallow sleepiness rapid appetite",
+                "shallow jaundice lack fatigue sleepiness rapid headache appetite breathing of confusion",
+                "jaundice confusion rapid shallow sleepiness lack of headache appetite breathing fatigue"
+            ],
+            "response": [
+                "You are most likely suffering from metabolic acidosis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease70"
+            ],
+            "code": [
+                "discolored blood low skin headaches muscle general rapid weakness fever breathing fatigue pressure labored",
+                "fever fatigue labored pressure low rapid discolored weakness blood headaches skin muscle general breathing",
+                "pressure weakness low fever blood rapid skin fatigue breathing labored discolored muscle headaches general",
+                "discolored labored muscle general headaches breathing fever blood fatigue low skin pressure rapid weakness",
+                "breathing discolored weakness rapid low skin headaches fatigue pressure labored general muscle blood fever",
+                "discolored fatigue weakness pressure blood labored rapid fever muscle headaches low general skin breathing",
+                "blood fatigue skin muscle labored fever low headaches weakness breathing discolored pressure general rapid",
+                "fever skin general labored pressure discolored muscle rapid fatigue low breathing blood weakness headaches",
+                "breathing fever headaches muscle pressure labored rapid weakness discolored skin fatigue low general blood",
+                "discolored breathing fever headaches weakness muscle rapid pressure skin fatigue low labored blood general",
+                "fatigue weakness low general skin discolored pressure breathing headaches blood muscle fever rapid labored",
+                "blood pressure low rapid headaches muscle general fever skin weakness labored discolored fatigue breathing",
+                "skin rapid fatigue fever blood weakness discolored low labored breathing muscle headaches general pressure",
+                "muscle rapid pressure skin discolored fever breathing weakness headaches fatigue blood labored low general"
+            ],
+            "response": [
+                "You are most likely suffering from acute respiratory distress syndrome"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease71"
+            ],
+            "code": [
+                "decreased loss in darkening muscles blood sugar appetite in tiredness skin low irritability depression vomiting levels weakness weight col the nausea fatigue",
+                "weakness levels sugar tiredness irritability weight muscles fatigue low in darkening appetite decreased blood nausea vomiting the in loss col depression skin",
+                "nausea fatigue in irritability muscles in weight col skin sugar darkening weakness levels low tiredness appetite blood loss depression decreased vomiting the",
+                "the darkening blood sugar vomiting fatigue irritability weakness skin decreased depression col appetite weight levels loss low nausea in in tiredness muscles",
+                "depression in decreased irritability loss levels the sugar vomiting col nausea darkening in muscles weight weakness appetite skin fatigue blood low tiredness",
+                "blood weakness darkening skin irritability in loss appetite nausea levels tiredness muscles col weight in low fatigue decreased depression the sugar vomiting",
+                "irritability fatigue muscles vomiting in nausea levels col depression loss blood darkening skin weight tiredness decreased weakness sugar appetite low the in",
+                "decreased sugar vomiting tiredness the irritability in fatigue loss levels weight muscles in col blood weakness nausea darkening depression appetite low skin",
+                "weight the irritability depression loss darkening fatigue sugar low in muscles nausea weakness vomiting appetite decreased blood levels col skin in tiredness",
+                "fatigue appetite loss blood weakness irritability darkening levels sugar low decreased skin depression muscles the in weight in nausea tiredness col vomiting",
+                "low appetite vomiting muscles fatigue depression skin nausea loss in blood levels weakness tiredness darkening decreased weight col sugar the in irritability",
+                "muscles appetite the in fatigue vomiting col depression low irritability darkening tiredness in nausea skin loss blood weight sugar decreased weakness levels",
+                "levels vomiting loss tiredness nausea low muscles in decreased weakness blood sugar weight fatigue darkening the depression in appetite irritability skin col",
+                "col depression weight loss the muscles darkening in skin fatigue low decreased irritability sugar in weakness levels nausea appetite tiredness blood vomiting",
+                "skin appetite depression nausea in the levels in sugar tiredness muscles decreased col loss darkening low weight blood vomiting irritability weakness fatigue",
+                "in weakness low tiredness sugar muscles nausea levels weight appetite blood decreased fatigue col loss skin vomiting the depression irritability darkening in",
+                "appetite the loss low darkening skin in vomiting nausea tiredness in muscles irritability decreased blood sugar weight depression fatigue levels weakness col",
+                "in decreased loss weight vomiting tiredness fatigue the levels in muscles blood appetite sugar col weakness nausea low darkening depression irritability skin",
+                "blood the col weakness nausea appetite depression skin tiredness sugar in fatigue darkening decreased loss irritability low weight levels muscles vomiting in",
+                "levels irritability in weakness the muscles vomiting col darkening in low fatigue sugar depression weight blood decreased skin tiredness appetite loss nausea",
+                "col levels loss fatigue vomiting nausea skin in weight low depression in muscles decreased tiredness the darkening weakness appetite irritability sugar blood",
+                "skin sugar decreased irritability darkening vomiting nausea the depression weight levels loss fatigue in appetite muscles weakness tiredness in col low blood"
+            ],
+            "response": [
+                "You are most likely suffering from Addison's disease"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease72"
+            ],
+            "code": [
+                "the sudden fear in high back belly restlessness fever confusion lower legs pain",
+                "restlessness sudden high legs fear in lower confusion fever pain back the belly",
+                "restlessness in legs fear back confusion lower fever belly sudden high pain the",
+                "confusion fear belly sudden lower the fever pain in back restlessness legs high",
+                "fear sudden fever belly high pain legs the back confusion in lower restlessness",
+                "sudden back high fear pain confusion legs in fever the lower restlessness belly",
+                "in confusion the sudden lower fever pain back fear legs high belly restlessness",
+                "confusion fear restlessness belly the pain sudden back high lower legs in fever",
+                "the back restlessness confusion fever lower fear sudden in pain high legs belly",
+                "fever restlessness fear high legs sudden confusion back the lower in pain belly",
+                "sudden lower back restlessness fear in legs confusion pain high the fever belly",
+                "high the fear legs sudden confusion in belly fever pain back restlessness lower",
+                "belly back high the confusion sudden legs in fever pain restlessness fear lower"
+            ],
+            "response": [
+                "You are most likely suffering from Addisonian crisis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease73"
+            ],
+            "code": [
+                "physical during up breath of rapid breath swollen short heart legs lower waking of activity rate shortness",
+                "waking short legs swollen heart of of breath rapid rate during physical lower breath shortness activity up",
+                "shortness legs physical of swollen during of short heart activity breath rate breath rapid waking lower up",
+                "during of shortness short heart up of breath rapid breath waking physical lower rate swollen activity legs",
+                "up waking short shortness swollen breath heart lower legs physical activity of rapid of during breath rate",
+                "breath rapid of waking breath legs activity during swollen rate short lower heart shortness of physical up",
+                "breath of shortness waking legs during of rapid breath swollen lower physical short heart rate up activity",
+                "up waking rapid swollen rate short breath breath physical of during heart shortness of activity legs lower",
+                "legs swollen breath physical breath waking rapid during of heart lower activity rate shortness short up of",
+                "rate short of shortness swollen heart rapid up lower physical of activity breath breath legs waking during",
+                "activity legs during of swollen breath rapid heart shortness short of physical up waking lower breath rate",
+                "activity during waking physical heart rapid short lower up breath shortness swollen of legs of breath rate",
+                "waking of lower short breath legs up shortness rate heart activity physical rapid swollen during of breath",
+                "waking legs activity physical rate shortness short breath breath of during rapid of lower heart swollen up",
+                "physical legs of rapid activity short shortness rate lower breath swollen during of heart breath waking up",
+                "activity heart waking shortness breath lower of short rapid legs up rate of breath swollen during physical",
+                "of breath waking activity up during rapid lower shortness breath physical short legs heart of swollen rate"
+            ],
+            "response": [
+                "You are most likely suffering from beriberi"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease74"
+            ],
+            "code": [
+                "feeling the hands legs in particularly of muscle in feet decreased loss lower function the pain",
+                "lower feeling function decreased the hands muscle in of legs particularly in pain feet the loss",
+                "feeling hands in the decreased muscle pain legs particularly in lower loss the of feet function",
+                "the the pain feeling decreased of lower in loss in particularly legs hands feet muscle function",
+                "legs the in feeling feet muscle the of function hands lower particularly pain decreased in loss",
+                "muscle in function the legs of particularly lower decreased in pain feeling loss feet hands the",
+                "feet in decreased legs particularly hands in of function lower the feeling loss pain muscle the",
+                "feet hands feeling legs function muscle the loss decreased pain the in of in particularly lower",
+                "in hands legs decreased feet particularly function the feeling muscle lower loss in pain of the",
+                "in the loss muscle feet feeling legs in pain particularly of hands lower decreased function the",
+                "legs in function in hands the particularly muscle feeling decreased feet loss of lower pain the",
+                "the of decreased hands loss legs muscle pain the particularly feet in function feeling in lower",
+                "particularly of hands muscle the the feet feeling loss legs pain function decreased in lower in",
+                "feet the legs function particularly in in of hands feeling lower the muscle pain decreased loss",
+                "of legs the feeling decreased in hands the pain particularly lower feet function loss in muscle",
+                "feeling in of particularly legs hands pain function the decreased loss muscle the feet lower in"
+            ],
+            "response": [
+                "You are most likely suffering from dry beriberi"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease75"
+            ],
+            "code": [
+                "loss eye rapid confusion movement memory double vision",
+                "vision rapid memory confusion double loss movement eye",
+                "double loss vision memory eye movement rapid confusion",
+                "double rapid eye loss vision memory movement confusion",
+                "memory eye movement double rapid vision confusion loss",
+                "loss eye rapid memory confusion vision movement double",
+                "memory vision double movement confusion eye rapid loss",
+                "rapid eye vision movement memory confusion double loss"
+            ],
+            "response": [
+                "You are most likely suffering from thalamus  hypothalamus"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease76"
+            ],
+            "code": [
+                "diarrhea muscle runny malaise sore nose aches throat difficulties cough fever respiratory headache",
+                "diarrhea sore runny respiratory fever aches difficulties cough muscle throat nose headache malaise",
+                "fever headache muscle cough sore difficulties respiratory diarrhea aches malaise runny nose throat",
+                "sore malaise nose respiratory muscle headache fever aches throat difficulties runny cough diarrhea",
+                "throat malaise muscle aches cough respiratory headache nose diarrhea runny fever difficulties sore",
+                "throat fever headache respiratory aches runny malaise diarrhea difficulties nose sore cough muscle",
+                "nose diarrhea malaise sore muscle aches respiratory cough headache fever throat difficulties runny",
+                "muscle respiratory aches runny malaise headache nose cough difficulties fever throat diarrhea sore",
+                "respiratory aches fever difficulties nose cough headache diarrhea sore muscle runny malaise throat",
+                "difficulties diarrhea fever headache throat cough sore respiratory runny nose muscle malaise aches",
+                "difficulties respiratory aches sore cough diarrhea headache throat malaise runny nose muscle fever",
+                "muscle runny sore nose fever aches diarrhea malaise throat cough respiratory difficulties headache",
+                "aches muscle throat cough nose malaise runny diarrhea respiratory fever sore difficulties headache"
+            ],
+            "response": [
+                "You are most likely suffering from Bird Flu"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease77"
+            ],
+            "code": [
+                "in swelling bones affected weight the bones loss pain fatigued easily broken",
+                "fatigued loss broken bones pain in affected easily bones weight swelling the",
+                "fatigued the weight broken easily loss affected swelling in bones bones pain",
+                "easily swelling loss broken in the affected bones pain weight bones fatigued",
+                "the broken loss fatigued swelling affected in pain weight bones bones easily",
+                "bones pain fatigued weight in loss bones easily the swelling affected broken",
+                "easily the in loss broken swelling bones pain bones fatigued affected weight",
+                "affected loss broken in easily bones pain the fatigued weight swelling bones",
+                "easily in swelling broken bones fatigued bones the affected loss weight pain",
+                "loss bones bones fatigued the weight easily broken affected in pain swelling",
+                "bones fatigued the affected swelling easily broken bones weight loss pain in",
+                "broken easily affected bones swelling pain fatigued the in bones loss weight"
+            ],
+            "response": [
+                "You are most likely suffering from bone cancer"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease78"
+            ],
+            "code": [
+                "ache to in bone leading pain affected bone dull severe the weakened",
+                "severe bone pain to dull the affected ache leading bone in weakened",
+                "leading the in to weakened ache bone affected pain bone severe dull",
+                "dull in weakened to pain severe bone affected the leading bone ache",
+                "dull pain bone weakened the affected severe ache in bone leading to",
+                "bone bone in leading dull ache the weakened severe affected pain to",
+                "leading bone the dull ache severe in to weakened bone pain affected",
+                "severe affected bone ache to weakened leading bone dull the pain in",
+                "bone leading affected pain in dull the bone to ache weakened severe",
+                "ache pain affected bone in the to weakened bone severe leading dull",
+                "the pain to leading ache dull in bone affected bone severe weakened",
+                "leading pain dull severe the ache in bone affected bone weakened to"
+            ],
+            "response": [
+                "You are most likely suffering from bone tumour"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease79"
+            ],
+            "code": [
+                "shortness fast breathing appearance skinfatigue bluish breath wheezing cough the ribs of of",
+                "bluish cough breathing shortness appearance of skinfatigue the ribs of breath fast wheezing",
+                "ribs fast wheezing of bluish skinfatigue breath shortness of appearance breathing the cough",
+                "cough bluish of ribs fast of wheezing breath the appearance skinfatigue shortness breathing",
+                "bluish skinfatigue wheezing ribs of fast of the breathing appearance shortness cough breath",
+                "ribs breath skinfatigue cough fast bluish shortness the breathing of wheezing appearance of",
+                "fast of breath the of wheezing ribs skinfatigue appearance breathing bluish cough shortness",
+                "skinfatigue breathing of wheezing bluish of cough fast the appearance breath ribs shortness",
+                "breath breathing ribs the wheezing cough appearance bluish shortness of fast of skinfatigue",
+                "shortness bluish wheezing breathing the of appearance skinfatigue ribs of breath cough fast",
+                "cough breathing wheezing of breath the bluish ribs of fast appearance skinfatigue shortness",
+                "breath cough of appearance of ribs skinfatigue the wheezing shortness fast bluish breathing",
+                "wheezing skinfatigue cough appearance bluish of of the breathing ribs shortness breath fast"
+            ],
+            "response": [
+                "You are most likely suffering from bronchiolitis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease80"
+            ],
+            "code": [
+                "Ringing Ears in",
+                "Ears in Ringing"
+            ],
+            "response": [
+                "You are most likely suffering from tinnitus"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease81"
+            ],
+            "code": [
+                "sore spots neck a yellow that white jaw have tonsils difficulty a very swallowing stiff stomachaches throat headaches",
+                "headaches stomachaches that throat neck white spots sore stiff a very yellow swallowing difficulty tonsils have a jaw",
+                "neck yellow have swallowing difficulty jaw tonsils stiff spots throat that stomachaches a headaches sore white very a",
+                "sore yellow stomachaches headaches jaw white that difficulty very neck a tonsils swallowing a spots have throat stiff",
+                "headaches tonsils a stomachaches swallowing jaw neck difficulty yellow throat have sore that spots a very white stiff",
+                "throat have yellow very stomachaches stiff difficulty jaw sore a spots neck tonsils white a headaches that swallowing",
+                "white that a throat tonsils jaw spots stomachaches neck headaches have very difficulty swallowing yellow sore stiff a",
+                "jaw that yellow tonsils sore a a stomachaches stiff very white have neck headaches throat spots swallowing difficulty",
+                "yellow neck that a have spots sore swallowing headaches jaw stomachaches throat very tonsils a difficulty white stiff",
+                "difficulty white stomachaches swallowing stiff have a headaches a yellow very neck tonsils spots throat jaw sore that",
+                "yellow stiff spots that have white headaches throat neck very jaw tonsils swallowing a a sore stomachaches difficulty",
+                "a headaches have neck stiff a jaw that difficulty stomachaches sore white very throat yellow tonsils swallowing spots",
+                "white swallowing a very difficulty jaw yellow spots have throat a tonsils stiff sore headaches stomachaches that neck",
+                "a very jaw yellow neck that white spots a difficulty stiff throat stomachaches headaches tonsils sore swallowing have",
+                "jaw white that throat spots stomachaches sore tonsils have neck difficulty stiff headaches a swallowing yellow a very",
+                "stiff sore stomachaches have difficulty neck spots a yellow tonsils a swallowing jaw that very throat headaches white",
+                "difficulty tonsils sore stiff swallowing headaches spots yellow that a neck jaw throat have stomachaches very white a",
+                "throat a stomachaches tonsils have white swallowing difficulty a jaw headaches stiff sore spots that neck very yellow"
+            ],
+            "response": [
+                "You are most likely suffering from tonsillitis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease82"
+            ],
+            "code": [
+                "ulcer swollen a fatigue ulcer near skin fever headaches the nodes lymph chills skin a",
+                "skin near ulcer nodes ulcer lymph swollen a the headaches chills fatigue skin a fever",
+                "ulcer headaches chills skin the ulcer swollen fatigue nodes skin near fever a a lymph",
+                "near chills swollen ulcer fever ulcer nodes skin a fatigue headaches lymph skin a the",
+                "skin a headaches fatigue ulcer lymph the skin nodes fever chills ulcer swollen near a",
+                "skin a nodes skin chills ulcer ulcer fatigue swollen a near the lymph headaches fever",
+                "ulcer chills the a ulcer fever nodes skin skin near fatigue headaches lymph swollen a",
+                "the a fever lymph fatigue near nodes ulcer skin a ulcer headaches skin chills swollen",
+                "a skin ulcer lymph skin a fever swollen the near fatigue nodes headaches ulcer chills",
+                "ulcer skin near a the ulcer chills skin lymph a nodes fatigue headaches fever swollen",
+                "swollen near nodes ulcer lymph a headaches skin the fever ulcer chills skin a fatigue",
+                "near fever chills skin lymph a headaches the ulcer swollen nodes skin ulcer a fatigue",
+                "headaches near fever chills lymph nodes a fatigue skin the skin swollen ulcer ulcer a",
+                "skin a the fever near headaches fatigue lymph skin swollen ulcer a nodes ulcer chills",
+                "chills nodes ulcer a skin near fatigue swollen skin lymph headaches a ulcer the fever"
+            ],
+            "response": [
+                "You are most likely suffering from Tularemia"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease83"
+            ],
+            "code": [
+                "appetite fatigue loss unexplained sweats night loss fever weight",
+                "appetite loss unexplained fever night weight fatigue loss sweats",
+                "fatigue appetite weight loss night sweats fever unexplained loss",
+                "unexplained fever fatigue sweats loss loss appetite weight night",
+                "weight fatigue sweats loss fever loss unexplained night appetite",
+                "appetite fever fatigue sweats night weight loss unexplained loss",
+                "fever loss appetite sweats unexplained weight night fatigue loss",
+                "loss fever loss night weight sweats fatigue appetite unexplained",
+                "appetite loss loss unexplained night fatigue sweats fever weight"
+            ],
+            "response": [
+                "You are most likely suffering from tuberculosis"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease84"
+            ],
+            "code": [
+                "pressure back rash fever pain muscle chest eye low blood severe severe headache high sensitivity",
+                "severe severe pain pressure blood fever rash low muscle eye back chest sensitivity high headache",
+                "fever headache pain severe eye high chest sensitivity severe blood muscle rash pressure low back",
+                "pain sensitivity high severe back rash pressure muscle eye fever chest blood low headache severe",
+                "low blood pain severe fever chest headache muscle pressure severe eye rash high sensitivity back",
+                "fever eye high blood muscle severe back headache rash severe chest pain sensitivity pressure low",
+                "fever rash headache low high severe sensitivity pressure muscle pain eye back blood severe chest",
+                "sensitivity back eye rash high chest blood low severe pressure pain muscle headache fever severe",
+                "severe rash chest blood low fever severe pressure back sensitivity high pain headache muscle eye",
+                "pressure blood fever pain eye low high severe headache muscle severe rash sensitivity back chest",
+                "pain sensitivity severe pressure blood muscle back chest rash severe low fever eye headache high",
+                "back low sensitivity fever pressure blood chest headache eye high severe muscle rash pain severe",
+                "low pain eye blood sensitivity high headache chest severe rash pressure muscle back severe fever",
+                "eye rash pain headache sensitivity blood high low severe chest muscle fever pressure back severe",
+                "pressure eye sensitivity high rash fever low chest muscle severe severe pain headache back blood"
+            ],
+            "response": [
+                "You are most likely suffering from typhus"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease85"
+            ],
+            "code": [
+                "weight clots loss pain lower loss blood depression back of appetite stomach abdominal",
+                "stomach appetite back loss pain depression abdominal blood of weight lower loss clots",
+                "abdominal depression back pain loss clots lower of weight stomach appetite blood loss",
+                "loss stomach abdominal blood of weight appetite depression loss back lower pain clots",
+                "loss pain of lower abdominal blood depression clots loss appetite weight back stomach",
+                "clots lower depression stomach loss loss of blood abdominal appetite pain weight back",
+                "pain weight appetite blood depression of abdominal stomach back lower loss clots loss",
+                "blood clots weight abdominal of back appetite loss pain depression lower stomach loss",
+                "lower stomach appetite clots of depression back blood weight abdominal loss pain loss",
+                "stomach pain of appetite weight clots abdominal loss lower depression blood loss back",
+                "stomach abdominal loss blood clots back pain depression loss weight lower of appetite",
+                "blood of loss abdominal stomach loss weight depression pain clots appetite back lower",
+                "clots loss appetite of back weight pain loss abdominal stomach lower depression blood"
+            ],
+            "response": [
+                "You are most likely suffering from Pancreatic Cancer"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease86"
+            ],
+            "code": [
+                "in vomiting pain depression kidney bone nausea lethargy muscles your stones fractures confusion",
+                "in confusion pain lethargy stones depression muscles fractures your bone nausea vomiting kidney",
+                "stones in lethargy depression muscles bone pain nausea vomiting kidney confusion your fractures",
+                "pain kidney in bone stones vomiting your muscles fractures nausea confusion depression lethargy",
+                "fractures stones bone pain kidney depression in nausea vomiting confusion lethargy muscles your",
+                "in lethargy vomiting pain kidney depression stones muscles bone fractures confusion nausea your",
+                "pain kidney vomiting nausea fractures depression bone muscles your confusion stones lethargy in",
+                "bone muscles pain confusion depression nausea vomiting kidney in stones lethargy your fractures",
+                "stones depression confusion fractures kidney in muscles bone lethargy nausea your vomiting pain",
+                "stones lethargy vomiting fractures your confusion pain in kidney bone nausea depression muscles",
+                "confusion kidney bone your vomiting pain nausea stones in fractures depression muscles lethargy",
+                "lethargy nausea bone depression in muscles pain confusion kidney your fractures vomiting stones",
+                "muscles depression pain fractures vomiting nausea kidney your lethargy confusion in stones bone"
+            ],
+            "response": [
+                "You are most likely suffering from hyperparathyroidism"
+            ],
+            "context": ""
+        },
+        {
+            "tag": [
+                "disease87"
+            ],
+            "code": [
+                "shape changes redness your texture the of nail blisters of nail pus filled detachment skin in color",
+                "nail color of in the filled of pus nail redness shape blisters skin detachment your texture changes",
+                "detachment the of skin of changes nail blisters texture nail shape redness pus your in color filled",
+                "the pus in shape changes of detachment color your texture of filled redness nail blisters nail skin",
+                "of color blisters in shape redness texture nail of filled skin your detachment pus nail the changes",
+                "changes blisters nail redness detachment texture in of of shape color your skin the pus filled nail",
+                "changes your redness skin texture filled pus of nail the nail blisters detachment shape of color in",
+                "shape color texture filled the in blisters changes your detachment skin of pus redness of nail nail",
+                "nail nail shape texture detachment blisters pus skin of redness color in changes of the your filled",
+                "the your nail blisters of in redness of pus changes color nail filled texture shape skin detachment",
+                "of the shape nail pus color of filled blisters detachment changes redness in nail skin your texture",
+                "in shape color of redness nail detachment pus of your skin blisters nail texture the changes filled",
+                "nail redness texture your shape the changes of blisters color in skin pus filled detachment of nail",
+                "shape color in pus of filled nail blisters changes redness skin your texture the detachment of nail",
+                "your of redness blisters changes of nail color in the nail texture skin shape pus detachment filled",
+                "changes the redness nail filled of pus color shape detachment skin blisters nail in of your texture",
+                "your detachment in the color pus nail filled of shape nail blisters texture of redness changes skin"
+            ],
+            "response": [
+                "You are most likely suffering from paronychia"
+            ],
+            "context": ""
+        }
+    ]
+}
